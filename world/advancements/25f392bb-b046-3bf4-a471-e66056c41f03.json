@@ -7393,9 +7393,159 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/cooked_meat": {
+    "criteria": {
+      "has_cooked_meat": "2025-12-08 20:43:22 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-12-08 20:51:02 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/unit/storage/crude_storage_unit": {
+    "criteria": {
+      "has_barrel": "2025-12-08 21:00:29 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-12-08 21:00:29 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-12-08 21:00:29 +0400"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/copper_support_wedge": {
     "criteria": {
       "has_item": "2025-12-08 21:00:51 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/electronic_circuit": {
+    "criteria": {
+      "has_copper_plate": "2025-12-08 21:00:51 +0400"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/yellow_copper_lamp": {
+    "criteria": {
+      "has_item": "2025-12-08 21:00:51 +0400"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/red_copper_lamp": {
+    "criteria": {
+      "has_item": "2025-12-08 21:00:51 +0400"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_bars_overlay": {
+    "criteria": {
+      "has_item": "2025-12-08 21:00:51 +0400"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_sheet_metal": {
+    "criteria": {
+      "has_item": "2025-12-08 21:00:51 +0400"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_catwalk_railing_forge": {
+    "criteria": {
+      "has_item": "2025-12-08 21:00:51 +0400"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_mesh_fence": {
+    "criteria": {
+      "has_item": "2025-12-08 21:00:51 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/neutron_reflector": {
+    "criteria": {
+      "has_copper_plate": "2025-12-08 21:00:51 +0400"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_catwalk_forge": {
+    "criteria": {
+      "has_item": "2025-12-08 21:00:51 +0400"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/blue_copper_lamp": {
+    "criteria": {
+      "has_item": "2025-12-08 21:00:51 +0400"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/green_copper_lamp": {
+    "criteria": {
+      "has_item": "2025-12-08 21:00:51 +0400"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_woodburner": {
+    "criteria": {
+      "has_item": "2025-12-08 21:20:11 +0400"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_coalburner": {
+    "criteria": {
+      "has_item": "2025-12-08 21:20:11 +0400"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_oilburner": {
+    "criteria": {
+      "has_item": "2025-12-08 21:20:11 +0400"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_long": {
+    "criteria": {
+      "has_item": "2025-12-08 21:20:11 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/burn_pottery_sherd": {
+    "criteria": {
+      "has_campfire": "2025-12-08 21:20:11 +0400"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_streamlined": {
+    "criteria": {
+      "has_item": "2025-12-08 21:20:11 +0400"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_caboosestyle": {
+    "criteria": {
+      "has_item": "2025-12-08 21:20:11 +0400"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_diesel": {
+    "criteria": {
+      "has_item": "2025-12-08 21:20:11 +0400"
+    },
+    "done": true
+  },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2025-12-08 21:23:58 +0400"
     },
     "done": true
   },
@@ -7429,66 +7579,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-12-08 21:36:57 +0400"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/smokestack_woodburner": {
-    "criteria": {
-      "has_item": "2025-12-08 21:20:11 +0400"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/copper_hull": {
-    "criteria": {
-      "has_item": "2025-12-08 21:36:57 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper": {
-    "criteria": {
-      "has_copper_block": "2025-12-08 21:36:57 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
-    "criteria": {
-      "has_copper_block": "2025-12-08 21:36:57 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/assembling_machine/electronic_circuit": {
-    "criteria": {
-      "has_copper_plate": "2025-12-08 21:00:51 +0400"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/yellow_copper_lamp": {
-    "criteria": {
-      "has_item": "2025-12-08 21:00:51 +0400"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/red_copper_lamp": {
-    "criteria": {
-      "has_item": "2025-12-08 21:00:51 +0400"
-    },
-    "done": true
-  },
-  "create:mechanical_pump_0": {
-    "criteria": {
-      "0": "2025-12-08 21:23:58 +0400"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/copper_bars_overlay": {
-    "criteria": {
-      "has_item": "2025-12-08 21:00:51 +0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-12-08 21:29:43 +0400"
@@ -7501,21 +7591,9 @@
     },
     "done": true
   },
-  "railways:recipes/misc/crafting/smokestack_coalburner": {
-    "criteria": {
-      "has_item": "2025-12-08 21:20:11 +0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-12-08 21:29:43 +0400"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/gearboxfrom_conversion": {
-    "criteria": {
-      "has_item": "2025-12-08 20:51:02 +0400"
     },
     "done": true
   },
@@ -7525,57 +7603,9 @@
     },
     "done": true
   },
-  "railways:recipes/misc/crafting/smokestack_oilburner": {
-    "criteria": {
-      "has_item": "2025-12-08 21:20:11 +0400"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/copper_hull_from_stonecutting": {
-    "criteria": {
-      "has_item": "2025-12-08 21:36:57 +0400"
-    },
-    "done": true
-  },
-  "create:steam_engine": {
-    "criteria": {
-      "0": "2025-12-08 21:35:41 +0400"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/smokestack_long": {
-    "criteria": {
-      "has_item": "2025-12-08 21:20:11 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/centrifuge/cooked_meat": {
-    "criteria": {
-      "has_cooked_meat": "2025-12-08 20:43:22 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/unit/storage/crude_storage_unit": {
-    "criteria": {
-      "has_barrel": "2025-12-08 21:00:29 +0400"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/copper_sheet_metal": {
-    "criteria": {
-      "has_item": "2025-12-08 21:00:51 +0400"
-    },
-    "done": true
-  },
   "techreborn:recipes/crafting_table/misc_block/reinforced_glass_alt": {
     "criteria": {
       "has_glass": "2025-12-08 21:29:43 +0400"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/copper_catwalk_railing_forge": {
-    "criteria": {
-      "has_item": "2025-12-08 21:00:51 +0400"
     },
     "done": true
   },
@@ -7591,33 +7621,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/compressor/copper_plate_from_block": {
-    "criteria": {
-      "has_copper_block": "2025-12-08 21:36:57 +0400"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/copper_mesh_fence": {
-    "criteria": {
-      "has_item": "2025-12-08 21:00:51 +0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-12-08 21:29:43 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/parts/neutron_reflector": {
-    "criteria": {
-      "has_copper_plate": "2025-12-08 21:00:51 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/burn_pottery_sherd": {
-    "criteria": {
-      "has_campfire": "2025-12-08 21:20:11 +0400"
     },
     "done": true
   },
@@ -7627,27 +7633,9 @@
     },
     "done": true
   },
-  "createdeco:recipes/decorations/copper_catwalk_forge": {
-    "criteria": {
-      "has_item": "2025-12-08 21:00:51 +0400"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/blue_copper_lamp": {
-    "criteria": {
-      "has_item": "2025-12-08 21:00:51 +0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-12-08 21:29:43 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-12-08 21:36:57 +0400"
     },
     "done": true
   },
@@ -7663,21 +7651,9 @@
     },
     "done": true
   },
-  "railways:recipes/misc/crafting/smokestack_streamlined": {
-    "criteria": {
-      "has_item": "2025-12-08 21:20:11 +0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-12-08 21:29:43 +0400"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/smokestack_caboosestyle": {
-    "criteria": {
-      "has_item": "2025-12-08 21:20:11 +0400"
     },
     "done": true
   },
@@ -7687,33 +7663,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot": {
-    "criteria": {
-      "has_copper_block": "2025-12-08 21:36:57 +0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-12-08 21:29:43 +0400"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/green_copper_lamp": {
-    "criteria": {
-      "has_item": "2025-12-08 21:00:51 +0400"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/fluid_tank": {
-    "criteria": {
-      "has_item": "2025-12-08 21:00:29 +0400"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/smokestack_diesel": {
-    "criteria": {
-      "has_item": "2025-12-08 21:20:11 +0400"
     },
     "done": true
   },
@@ -7735,9 +7687,69 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/tiled_glass_from_colorless_glass_stonecutting": {
+    "criteria": {
+      "has_colorless_glass": "2025-12-08 21:29:43 +0400"
+    },
+    "done": true
+  },
   "create:water_supply": {
     "criteria": {
       "0": "2025-12-08 21:30:33 +0400"
+    },
+    "done": true
+  },
+  "create:steam_engine": {
+    "criteria": {
+      "0": "2025-12-08 21:35:41 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-12-08 21:36:57 +0400"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_hull": {
+    "criteria": {
+      "has_item": "2025-12-08 21:36:57 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-12-08 21:36:57 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-12-08 21:36:57 +0400"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_hull_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-12-08 21:36:57 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/copper_plate_from_block": {
+    "criteria": {
+      "has_copper_block": "2025-12-08 21:36:57 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-12-08 21:36:57 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-12-08 21:36:57 +0400"
     },
     "done": true
   },
@@ -7747,21 +7759,39 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/tiled_glass_from_colorless_glass_stonecutting": {
-    "criteria": {
-      "has_colorless_glass": "2025-12-08 21:29:43 +0400"
-    },
-    "done": true
-  },
   "techreborn:recipes/industrial_sawmill/dark_oak_pressure_plate_from_slab": {
     "criteria": {
       "has_dark_oak_slab": "2025-12-08 21:40:54 +0400"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/item_vault": {
+  "minecraft:recipes/misc/white_dye": {
     "criteria": {
-      "has_item": "2025-12-08 21:00:29 +0400"
+      "has_bone_meal": "2025-12-08 23:44:44 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/white_dye_from_bone_meal": {
+    "criteria": {
+      "has_bone_meal": "2025-12-08 23:44:44 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-12-08 23:44:44 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-12-08 23:44:44 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_electrolyzer/bone_meal": {
+    "criteria": {
+      "has_bone_meal": "2025-12-08 23:44:44 +0400"
     },
     "done": true
   },
