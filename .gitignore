@@ -1,0 +1,45 @@
+# Minecraft временные файлы
+world/session.lock
+world/level.dat_old
+world/*.tmp
+
+# Логи и кэш
+logs/
+crash-reports/
+debug/
+cache/
+
+# Файлы Fabric
+.launcher/
+.fabric/
+
+# Системные файлы
+*.log
+*.tmp
+*.temp
+
+# Бинарные файлы
+*.jar
+*.zip
+*.tar.gz
+
+# Игнорируем библиотеки
+libraries/
+versions/
+disabled_mods/
+
+# Файлы Windows
+Thumbs.db
+Desktop.ini
+
+# Исключения (что нужно сохранять в git)
+!.gitignore
+!README.md
+!server.properties
+!whitelist.json
+!ops.json
+!banned-*.json
+!usercache.json
+!eula.txt
+!start.sh
+!start.bat
