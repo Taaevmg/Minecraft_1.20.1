@@ -5197,5 +5197,35 @@
     },
     "done": true
   },
+  "fishingparadise:metal_fishing_rod": {
+    "criteria": {
+      "requirement": "2025-12-09 20:19:14 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-12-09 20:19:35 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/brewer_pottery_sherd": {
+    "criteria": {
+      "has_glass_bottle": "2025-12-09 20:15:56 +0400"
+    },
+    "done": true
+  },
+  "fishingparadise:catch_fish": {
+    "criteria": {
+      "requirement": "2025-12-09 20:21:41 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-12-09 20:19:35 +0400"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
