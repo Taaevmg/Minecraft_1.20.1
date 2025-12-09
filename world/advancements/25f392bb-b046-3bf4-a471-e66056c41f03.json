@@ -7795,5 +7795,11 @@
     },
     "done": true
   },
+  "modern_industrialization:guidebook": {
+    "criteria": {
+      "checkInv": "2025-12-09 07:32:59 +0400"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
