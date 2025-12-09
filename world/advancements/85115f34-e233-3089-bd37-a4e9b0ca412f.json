@@ -1374,6 +1374,8 @@
       "minecraft:creeper": "2025-12-07 14:49:24 +0400",
       "minecraft:zombified_piglin": "2025-12-07 22:00:38 +0400",
       "minecraft:wither_skeleton": "2025-12-07 20:49:48 +0400",
+      "minecraft:ender_dragon": "2025-12-09 22:00:34 +0400",
+      "minecraft:shulker": "2025-12-09 22:11:50 +0400",
       "minecraft:piglin": "2025-12-07 21:08:21 +0400",
       "minecraft:enderman": "2025-12-07 22:53:58 +0400",
       "minecraft:silverfish": "2025-12-07 23:10:40 +0400",
@@ -5204,6 +5206,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-12-09 22:25:14 +0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2025-12-09 21:40:06 +0400"
@@ -5216,15 +5224,45 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-12-09 22:01:39 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-12-09 22:01:33 +0400"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/black_dye_from_ink_sac": {
     "criteria": {
       "has_ink_sac": "2025-12-09 20:32:47 +0400"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2025-12-09 22:18:59 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-12-09 22:06:21 +0400"
+    },
+    "done": true
+  },
   "fishingparadise:metal_fishing_rod": {
     "criteria": {
       "requirement": "2025-12-09 20:19:14 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/end_stone_bricks_with_water": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-12-09 22:25:14 +0400"
     },
     "done": true
   },
@@ -5246,9 +5284,81 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-12-09 22:06:09 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-12-09 22:01:33 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2025-12-09 22:18:59 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-12-09 22:18:59 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-12-09 22:25:14 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-12-09 22:25:14 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/elytra": {
+    "criteria": {
+      "has_end_rod": "2025-12-09 22:20:16 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-12-09 22:12:41 +0400"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2025-12-09 21:50:37 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-12-09 22:18:59 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-12-09 22:25:14 +0400"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-12-09 22:00:34 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2025-12-09 22:18:59 +0400"
     },
     "done": true
   },
@@ -5258,9 +5368,45 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/dragon_egg_syphon": {
+    "criteria": {
+      "has_dragon_egg": "2025-12-09 22:01:39 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-12-09 22:01:33 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-12-09 22:25:14 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/spire_armor_trim_smithing_template": {
+    "criteria": {
+      "has_purpur_block": "2025-12-09 22:18:59 +0400"
+    },
+    "done": true
+  },
   "techreborn:recipes/assembling_machine/brown_bed_from_wool": {
     "criteria": {
       "has_brown_wool": "2025-12-09 21:40:06 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/purple_dye_from_shulker_shell": {
+    "criteria": {
+      "has_shulker_shell": "2025-12-09 22:12:41 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/end_stone_with_water": {
+    "criteria": {
+      "has_end_stone": "2025-12-09 22:01:33 +0400"
     },
     "done": true
   },
@@ -5288,6 +5434,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-12-09 22:25:14 +0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-12-09 21:40:06 +0400"
@@ -5300,6 +5452,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-12-09 22:25:14 +0400"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-12-09 22:11:43 +0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-12-09 21:40:06 +0400"
@@ -5309,6 +5473,24 @@
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2025-12-09 21:50:37 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-12-09 22:18:59 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-12-09 22:01:33 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-12-09 22:01:33 +0400"
     },
     "done": true
   },
