@@ -1374,6 +1374,7 @@
       "minecraft:spider": "2025-12-07 20:04:21 +0400",
       "minecraft:creeper": "2025-12-07 14:49:24 +0400",
       "minecraft:zombified_piglin": "2025-12-07 22:00:38 +0400",
+      "minecraft:witch": "2025-12-09 23:03:17 +0400",
       "minecraft:wither_skeleton": "2025-12-07 20:49:48 +0400",
       "minecraft:ender_dragon": "2025-12-09 22:00:34 +0400",
       "minecraft:shulker": "2025-12-09 22:11:50 +0400",
@@ -5202,117 +5203,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_banner": {
+  "techreborn:recipes/blast_furnace/brewer_pottery_sherd": {
     "criteria": {
-      "has_brown_wool": "2025-12-09 21:40:06 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
-    "criteria": {
-      "has_end_stone_bricks": "2025-12-09 22:25:14 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_bed": {
-    "criteria": {
-      "has_brown_wool": "2025-12-09 21:40:06 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton_from_smoking": {
-    "criteria": {
-      "has_mutton": "2025-12-09 21:40:06 +0400"
-    },
-    "done": true
-  },
-  "minecraft:nether/brew_potion": {
-    "criteria": {
-      "potion": "2025-12-09 22:50:02 +0400"
-    },
-    "done": true
-  },
-  "minecraft:end/dragon_egg": {
-    "criteria": {
-      "dragon_egg": "2025-12-09 22:01:39 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lapis_block": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-12-09 22:39:25 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/blade_pottery_sherd": {
-    "criteria": {
-      "has_iron_sword": "2025-12-09 22:49:10 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-12-09 22:01:33 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/tool/industrial_drill": {
-    "criteria": {
-      "has_energy_flow_chip": "2025-12-09 22:49:10 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/black_dye_from_ink_sac": {
-    "criteria": {
-      "has_ink_sac": "2025-12-09 20:32:47 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/compressor/iridium_plate": {
-    "criteria": {
-      "has_tag_c_iridium_ingots": "2025-12-09 22:48:49 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/small_dust/sodalite_small_dust_from_dust": {
-    "criteria": {
-      "has_sodalite_dust": "2025-12-09 22:28:53 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/machine/charge_o_mat": {
-    "criteria": {
-      "has_energy_flow_chip": "2025-12-09 22:49:10 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/iron_nugget_from_sword": {
-    "criteria": {
-      "has_iron_sword": "2025-12-09 22:49:10 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/machine/lightning_rod": {
-    "criteria": {
-      "has_energy_flow_chip": "2025-12-09 22:49:10 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purpur_pillar": {
-    "criteria": {
-      "has_purpur_block": "2025-12-09 22:18:59 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/phantom_membrane_from_elytra": {
-    "criteria": {
-      "has_elytra": "2025-12-09 22:48:44 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/popped_chorus_fruit": {
-    "criteria": {
-      "has_chorus_fruit": "2025-12-09 22:06:21 +0400"
+      "has_glass_bottle": "2025-12-09 20:15:56 +0400"
     },
     "done": true
   },
@@ -5322,21 +5215,27 @@
     },
     "done": true
   },
-  "techreborn:recipes/industrial_grinder/end_stone_bricks_with_water": {
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
     "criteria": {
-      "has_end_stone_bricks": "2025-12-09 22:25:14 +0400"
+      "has_white_tulip": "2025-12-09 20:19:35 +0400"
     },
     "done": true
   },
-  "techreborn:recipes/grinder/chrome_dust": {
+  "techreborn:recipes/extractor/light_gray_dye_from_white_tulip": {
     "criteria": {
-      "has_tag_c_chromium_ingots": "2025-12-09 22:49:22 +0400"
+      "has_white_tulip": "2025-12-09 20:19:35 +0400"
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/parts/iridium_neutron_reflector": {
+  "fishingparadise:catch_fish": {
     "criteria": {
-      "has_iridium_ingot": "2025-12-09 22:48:49 +0400"
+      "requirement": "2025-12-09 20:21:41 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/black_dye_from_ink_sac": {
+    "criteria": {
+      "has_ink_sac": "2025-12-09 20:32:47 +0400"
     },
     "done": true
   },
@@ -5358,147 +5257,27 @@
     },
     "done": true
   },
-  "minecraft:end/enter_end_gateway": {
+  "techreborn:recipes/misc/smelting/lead_ingot_from_c_raw_lead_ores": {
     "criteria": {
-      "entered_end_gateway": "2025-12-09 22:06:09 +0400"
+      "has_tag_c_raw_lead_ores": "2025-12-09 21:00:45 +0400"
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/misc_block/computer_cube": {
+  "minecraft:recipes/decorations/brown_banner": {
     "criteria": {
-      "has_energy_flow_chip": "2025-12-09 22:49:10 +0400"
+      "has_brown_wool": "2025-12-09 21:40:06 +0400"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+  "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
-      "has_end_stone": "2025-12-09 22:01:33 +0400"
+      "has_brown_wool": "2025-12-09 21:40:06 +0400"
     },
     "done": true
   },
-  "minecraft:end/elytra": {
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
-      "elytra": "2025-12-09 22:48:44 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purpur_stairs": {
-    "criteria": {
-      "has_purpur_block": "2025-12-09 22:18:59 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/smelting/platinum_ingot_from_c_sheldonite_ores": {
-    "criteria": {
-      "has_tag_c_sheldonite_ores": "2025-12-09 22:32:39 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
-    "criteria": {
-      "has_purpur_block": "2025-12-09 22:18:59 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/blue_dye_from_lapis_lazuli": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-12-09 22:39:25 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/tool/advanced_chainsaw": {
-    "criteria": {
-      "has_the_recipe": "2025-12-09 22:49:10 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
-    "criteria": {
-      "has_end_stone_bricks": "2025-12-09 22:25:14 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/battery/lapotron_crystal": {
-    "criteria": {
-      "has_industrial_circuit": "2025-12-09 22:49:21 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/assembling_machine/eye_armor_trim_smithing_template": {
-    "criteria": {
-      "has_end_stone_bricks": "2025-12-09 22:25:14 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/assembling_machine/elytra": {
-    "criteria": {
-      "has_end_rod": "2025-12-09 22:20:16 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/tool/industrial_chainsaw": {
-    "criteria": {
-      "has_energy_flow_chip": "2025-12-09 22:49:10 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_shovel_with_water": {
-    "criteria": {
-      "has_diamond_shovel": "2025-12-09 22:49:11 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/aluminum_ingot": {
-    "criteria": {
-      "has_aluminum_dust": "2025-12-09 22:29:03 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/sheldonite_ore_with_water": {
-    "criteria": {
-      "has_sheldonite_ore": "2025-12-09 22:32:39 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/shulker_box": {
-    "criteria": {
-      "has_shulker_shell": "2025-12-09 22:12:41 +0400"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_end": {
-    "criteria": {
-      "entered_end": "2025-12-09 21:50:37 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
-    "criteria": {
-      "has_purpur_block": "2025-12-09 22:18:59 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
-    "criteria": {
-      "has_end_stone_brick": "2025-12-09 22:25:14 +0400"
-    },
-    "done": true
-  },
-  "minecraft:end/kill_dragon": {
-    "criteria": {
-      "killed_dragon": "2025-12-09 22:00:34 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-12-09 22:39:25 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purpur_slab": {
-    "criteria": {
-      "has_purpur_block": "2025-12-09 22:18:59 +0400"
+      "has_mutton": "2025-12-09 21:40:06 +0400"
     },
     "done": true
   },
@@ -5508,123 +5287,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/machine/dragon_egg_syphon": {
-    "criteria": {
-      "has_dragon_egg": "2025-12-09 22:01:39 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_shovel_with_mercury": {
-    "criteria": {
-      "has_diamond_shovel": "2025-12-09 22:49:11 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/tool/industrial_jackhammer": {
-    "criteria": {
-      "has_energy_flow_chip": "2025-12-09 22:49:10 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_bricks": {
-    "criteria": {
-      "has_end_stone": "2025-12-09 22:01:33 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_item_frame": "2025-12-09 22:48:57 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/centrifuge/lapis_lazuli": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-12-09 22:39:25 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/nugget/iridium_nugget": {
-    "criteria": {
-      "has_iridium_ingot": "2025-12-09 22:48:49 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_stone_brick_wall": {
-    "criteria": {
-      "has_end_stone_bricks": "2025-12-09 22:25:14 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/assembling_machine/spire_armor_trim_smithing_template": {
-    "criteria": {
-      "has_purpur_block": "2025-12-09 22:18:59 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/tool/advanced_jackhammer": {
-    "criteria": {
-      "has_the_recipe": "2025-12-09 22:49:10 +0400"
-    },
-    "done": true
-  },
   "techreborn:recipes/assembling_machine/brown_bed_from_wool": {
     "criteria": {
       "has_brown_wool": "2025-12-09 21:40:06 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/storage_block/iridium_storage_block": {
-    "criteria": {
-      "has_iridium_ingot": "2025-12-09 22:48:49 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/purple_dye_from_shulker_shell": {
-    "criteria": {
-      "has_shulker_shell": "2025-12-09 22:12:41 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/end_stone_with_water": {
-    "criteria": {
-      "has_end_stone": "2025-12-09 22:01:33 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/blasting/platinum_ingot_from_c_sheldonite_ores": {
-    "criteria": {
-      "has_tag_c_sheldonite_ores": "2025-12-09 22:32:39 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
-    "criteria": {
-      "has_white_tulip": "2025-12-09 20:19:35 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/smelting/lead_ingot_from_c_raw_lead_ores": {
-    "criteria": {
-      "has_tag_c_raw_lead_ores": "2025-12-09 21:00:45 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/brewer_pottery_sherd": {
-    "criteria": {
-      "has_glass_bottle": "2025-12-09 20:15:56 +0400"
-    },
-    "done": true
-  },
-  "fishingparadise:catch_fish": {
-    "criteria": {
-      "requirement": "2025-12-09 20:21:41 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
-    "criteria": {
-      "has_end_stone_brick": "2025-12-09 22:25:14 +0400"
     },
     "done": true
   },
@@ -5634,51 +5299,15 @@
     },
     "done": true
   },
-  "techreborn:recipes/rolling_machine/nichrome_heating_coil": {
-    "criteria": {
-      "has_chrome_ingot": "2025-12-09 22:49:22 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/light_gray_dye_from_white_tulip": {
-    "criteria": {
-      "has_white_tulip": "2025-12-09 20:19:35 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
-    "criteria": {
-      "has_end_stone_brick": "2025-12-09 22:25:14 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/nugget/chrome_nugget": {
-    "criteria": {
-      "has_chrome_ingot": "2025-12-09 22:49:22 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/cable/superconductor_cable": {
-    "criteria": {
-      "has_energy_flow_chip": "2025-12-09 22:49:10 +0400"
-    },
-    "done": true
-  },
-  "minecraft:end/find_end_city": {
-    "criteria": {
-      "in_city": "2025-12-09 22:11:43 +0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-12-09 21:40:06 +0400"
     },
     "done": true
   },
-  "techreborn:recipes/industrial_electrolyzer/sodalite_dust": {
+  "minecraft:story/enter_the_end": {
     "criteria": {
-      "has_sodalite_dust": "2025-12-09 22:28:53 +0400"
+      "entered_end": "2025-12-09 21:50:37 +0400"
     },
     "done": true
   },
@@ -5688,15 +5317,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+  "minecraft:end/kill_dragon": {
     "criteria": {
-      "has_purpur_block": "2025-12-09 22:18:59 +0400"
+      "killed_dragon": "2025-12-09 22:00:34 +0400"
     },
     "done": true
   },
-  "techreborn:recipes/compressor/chrome_plate": {
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
     "criteria": {
-      "has_tag_c_chromium_ingots": "2025-12-09 22:49:22 +0400"
+      "has_end_stone": "2025-12-09 22:01:33 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-12-09 22:01:33 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-12-09 22:01:33 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/end_stone_with_water": {
+    "criteria": {
+      "has_end_stone": "2025-12-09 22:01:33 +0400"
     },
     "done": true
   },
@@ -5712,9 +5359,315 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-12-09 22:01:39 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/dragon_egg_syphon": {
+    "criteria": {
+      "has_dragon_egg": "2025-12-09 22:01:39 +0400"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-12-09 22:06:09 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-12-09 22:06:21 +0400"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-12-09 22:11:43 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-12-09 22:12:41 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/purple_dye_from_shulker_shell": {
+    "criteria": {
+      "has_shulker_shell": "2025-12-09 22:12:41 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2025-12-09 22:18:59 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2025-12-09 22:18:59 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-12-09 22:18:59 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-12-09 22:18:59 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2025-12-09 22:18:59 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/spire_armor_trim_smithing_template": {
+    "criteria": {
+      "has_purpur_block": "2025-12-09 22:18:59 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-12-09 22:18:59 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/elytra": {
+    "criteria": {
+      "has_end_rod": "2025-12-09 22:20:16 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-12-09 22:25:14 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/end_stone_bricks_with_water": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-12-09 22:25:14 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-12-09 22:25:14 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-12-09 22:25:14 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-12-09 22:25:14 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-12-09 22:25:14 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-12-09 22:25:14 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-12-09 22:25:14 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/small_dust/sodalite_small_dust_from_dust": {
+    "criteria": {
+      "has_sodalite_dust": "2025-12-09 22:28:53 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_electrolyzer/sodalite_dust": {
+    "criteria": {
+      "has_sodalite_dust": "2025-12-09 22:28:53 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/aluminum_ingot": {
+    "criteria": {
+      "has_aluminum_dust": "2025-12-09 22:29:03 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/smelting/platinum_ingot_from_c_sheldonite_ores": {
+    "criteria": {
+      "has_tag_c_sheldonite_ores": "2025-12-09 22:32:39 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/sheldonite_ore_with_water": {
+    "criteria": {
+      "has_sheldonite_ore": "2025-12-09 22:32:39 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/blasting/platinum_ingot_from_c_sheldonite_ores": {
+    "criteria": {
+      "has_tag_c_sheldonite_ores": "2025-12-09 22:32:39 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-12-09 22:39:25 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/blue_dye_from_lapis_lazuli": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-12-09 22:39:25 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-12-09 22:39:25 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-12-09 22:39:25 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/phantom_membrane_from_elytra": {
+    "criteria": {
+      "has_elytra": "2025-12-09 22:48:44 +0400"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-12-09 22:48:44 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/iridium_plate": {
+    "criteria": {
+      "has_tag_c_iridium_ingots": "2025-12-09 22:48:49 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/iridium_neutron_reflector": {
+    "criteria": {
+      "has_iridium_ingot": "2025-12-09 22:48:49 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/iridium_nugget": {
+    "criteria": {
+      "has_iridium_ingot": "2025-12-09 22:48:49 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/iridium_storage_block": {
+    "criteria": {
+      "has_iridium_ingot": "2025-12-09 22:48:49 +0400"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/parts/data_storage_chip": {
     "criteria": {
       "has_iridium_ingot": "2025-12-09 22:48:49 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-12-09 22:48:57 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/blade_pottery_sherd": {
+    "criteria": {
+      "has_iron_sword": "2025-12-09 22:49:10 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/tool/industrial_drill": {
+    "criteria": {
+      "has_energy_flow_chip": "2025-12-09 22:49:10 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/charge_o_mat": {
+    "criteria": {
+      "has_energy_flow_chip": "2025-12-09 22:49:10 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_nugget_from_sword": {
+    "criteria": {
+      "has_iron_sword": "2025-12-09 22:49:10 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/lightning_rod": {
+    "criteria": {
+      "has_energy_flow_chip": "2025-12-09 22:49:10 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/computer_cube": {
+    "criteria": {
+      "has_energy_flow_chip": "2025-12-09 22:49:10 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/tool/advanced_chainsaw": {
+    "criteria": {
+      "has_the_recipe": "2025-12-09 22:49:10 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/tool/industrial_chainsaw": {
+    "criteria": {
+      "has_energy_flow_chip": "2025-12-09 22:49:10 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/tool/industrial_jackhammer": {
+    "criteria": {
+      "has_energy_flow_chip": "2025-12-09 22:49:10 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/tool/advanced_jackhammer": {
+    "criteria": {
+      "has_the_recipe": "2025-12-09 22:49:10 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/superconductor_cable": {
+    "criteria": {
+      "has_energy_flow_chip": "2025-12-09 22:49:10 +0400"
     },
     "done": true
   },
@@ -5724,15 +5677,357 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/parts/superconductor": {
+    "criteria": {
+      "has_energy_flow_chip": "2025-12-09 22:49:10 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_shovel_with_water": {
+    "criteria": {
+      "has_diamond_shovel": "2025-12-09 22:49:11 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_shovel_with_mercury": {
+    "criteria": {
+      "has_diamond_shovel": "2025-12-09 22:49:11 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/battery/lapotron_crystal": {
+    "criteria": {
+      "has_industrial_circuit": "2025-12-09 22:49:21 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/chrome_dust": {
+    "criteria": {
+      "has_tag_c_chromium_ingots": "2025-12-09 22:49:22 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/rolling_machine/nichrome_heating_coil": {
+    "criteria": {
+      "has_chrome_ingot": "2025-12-09 22:49:22 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/chrome_nugget": {
+    "criteria": {
+      "has_chrome_ingot": "2025-12-09 22:49:22 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/chrome_plate": {
+    "criteria": {
+      "has_tag_c_chromium_ingots": "2025-12-09 22:49:22 +0400"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/storage_block/chrome_storage_block": {
     "criteria": {
       "has_chrome_ingot": "2025-12-09 22:49:22 +0400"
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/parts/superconductor": {
+  "minecraft:nether/brew_potion": {
     "criteria": {
-      "has_energy_flow_chip": "2025-12-09 22:49:10 +0400"
+      "potion": "2025-12-09 22:50:02 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/industrial_machine_casing": {
+    "criteria": {
+      "has_industrial_machine_frame": "2025-12-09 22:58:24 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/matter_fabricator": {
+    "criteria": {
+      "has_industrial_machine_frame": "2025-12-09 22:58:24 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/chunk_loader": {
+    "criteria": {
+      "has_industrial_machine_frame": "2025-12-09 22:58:24 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/distillation_tower": {
+    "criteria": {
+      "has_industrial_machine_frame": "2025-12-09 22:58:24 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/fluid_replicator": {
+    "criteria": {
+      "has_industrial_machine_frame": "2025-12-09 22:58:24 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/yellow_stained_glass_from_glass_with_yellow_dye": {
+    "criteria": {
+      "has_yellow_dye": "2025-12-09 23:11:04 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2025-12-09 23:11:04 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-12-09 23:11:04 +0400"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/yellow_placard_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-12-09 23:11:04 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/lime_wool_from_cyan_wool_with_yellow_dye": {
+    "criteria": {
+      "has_yellow_dye": "2025-12-09 23:11:04 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/green_candle_from_blue_candle_with_yellow_dye": {
+    "criteria": {
+      "has_yellow_dye": "2025-12-09 23:11:04 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/green_stained_glass_from_blue_stained_glass_with_yellow_dye": {
+    "criteria": {
+      "has_yellow_dye": "2025-12-09 23:11:04 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/lime_candle_from_cyan_candle_with_yellow_dye": {
+    "criteria": {
+      "has_yellow_dye": "2025-12-09 23:11:04 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2025-12-09 23:11:04 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/yellow_carpet_from_white_carpet_with_yellow_dye": {
+    "criteria": {
+      "has_yellow_dye": "2025-12-09 23:11:04 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/green_carpet_from_blue_carpet_with_yellow_dye": {
+    "criteria": {
+      "has_yellow_dye": "2025-12-09 23:11:04 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/lime_wool_from_light_blue_wool_with_yellow_dye": {
+    "criteria": {
+      "has_yellow_dye": "2025-12-09 23:11:04 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/lime_carpet_from_light_blue_carpet_with_yellow_dye": {
+    "criteria": {
+      "has_yellow_dye": "2025-12-09 23:11:04 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-12-09 23:11:04 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/lime_stained_glass_pane_from_light_blue_stained_glass_pane_with_yellow_dye": {
+    "criteria": {
+      "has_yellow_dye": "2025-12-09 23:11:04 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/green_concrete_powder_from_blue_concrete_powder_with_yellow_dye": {
+    "criteria": {
+      "has_yellow_dye": "2025-12-09 23:11:04 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/green_terracotta_from_blue_terracotta_with_yellow_dye": {
+    "criteria": {
+      "has_yellow_dye": "2025-12-09 23:11:04 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/green_stained_glass_pane_from_blue_stained_glass_pane_with_yellow_dye": {
+    "criteria": {
+      "has_yellow_dye": "2025-12-09 23:11:04 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/lime_stained_glass_pane_from_cyan_stained_glass_pane_with_yellow_dye": {
+    "criteria": {
+      "has_yellow_dye": "2025-12-09 23:11:04 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/lime_stained_glass_from_light_blue_stained_glass_with_yellow_dye": {
+    "criteria": {
+      "has_yellow_dye": "2025-12-09 23:11:04 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/green_wool_from_blue_wool_with_yellow_dye": {
+    "criteria": {
+      "has_yellow_dye": "2025-12-09 23:11:04 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/lime_concrete_powder_from_cyan_concrete_powder_with_yellow_dye": {
+    "criteria": {
+      "has_yellow_dye": "2025-12-09 23:11:04 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/yellow_wool_from_white_wool_with_yellow_dye": {
+    "criteria": {
+      "has_yellow_dye": "2025-12-09 23:11:04 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/lime_stained_glass_from_cyan_stained_glass_with_yellow_dye": {
+    "criteria": {
+      "has_yellow_dye": "2025-12-09 23:11:04 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/lime_terracotta_from_cyan_terracotta_with_yellow_dye": {
+    "criteria": {
+      "has_yellow_dye": "2025-12-09 23:11:04 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/lime_concrete_powder_from_light_blue_concrete_powder_with_yellow_dye": {
+    "criteria": {
+      "has_yellow_dye": "2025-12-09 23:11:04 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/yellow_concrete_powder_from_white_concrete_powder_with_yellow_dye": {
+    "criteria": {
+      "has_yellow_dye": "2025-12-09 23:11:04 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/lime_candle_from_light_blue_candle_with_yellow_dye": {
+    "criteria": {
+      "has_yellow_dye": "2025-12-09 23:11:04 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/lime_terracotta_from_light_blue_terracotta_with_yellow_dye": {
+    "criteria": {
+      "has_yellow_dye": "2025-12-09 23:11:04 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/lime_carpet_from_cyan_carpet_with_yellow_dye": {
+    "criteria": {
+      "has_yellow_dye": "2025-12-09 23:11:04 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-12-09 23:11:04 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/yellow_terracotta_from_terracotta_with_yellow_dye": {
+    "criteria": {
+      "has_yellow_dye": "2025-12-09 23:11:04 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/yellow_candle_from_candle_with_yellow_dye": {
+    "criteria": {
+      "has_yellow_dye": "2025-12-09 23:11:04 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/yellow_stained_glass_pane_from_glass_pane_with_yellow_dye": {
+    "criteria": {
+      "has_yellow_dye": "2025-12-09 23:11:04 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2025-12-09 23:17:22 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2025-12-09 23:17:22 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-12-09 23:17:22 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-12-09 23:17:22 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-12-09 23:22:54 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-12-09 23:22:54 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/manual": {
+    "criteria": {
+      "has_book": "2025-12-09 23:22:54 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-12-09 23:22:54 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-12-09 23:22:54 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/paper_from_book": {
+    "criteria": {
+      "has_book": "2025-12-09 23:22:54 +0400"
     },
     "done": true
   },
