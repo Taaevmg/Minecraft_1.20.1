@@ -1163,6 +1163,7 @@
       "apple": "2025-12-06 22:06:04 +0400",
       "mutton": "2025-12-09 21:38:46 +0400",
       "bread": "2025-12-06 22:07:44 +0400",
+      "golden_apple": "2025-12-09 22:57:15 +0400",
       "rotten_flesh": "2025-12-06 21:56:56 +0400"
     },
     "done": false
@@ -6178,39 +6179,21 @@
     },
     "done": true
   },
-  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_mercury": {
-    "criteria": {
-      "has_diamond_helmet": "2025-12-09 22:12:20 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/phantom_membrane_from_elytra": {
-    "criteria": {
-      "has_elytra": "2025-12-09 22:12:34 +0400"
-    },
-    "done": true
-  },
   "minecraft:end/enter_end_gateway": {
     "criteria": {
       "entered_end_gateway": "2025-12-09 22:06:55 +0400"
     },
     "done": true
   },
-  "minecraft:end/elytra": {
+  "minecraft:end/find_end_city": {
     "criteria": {
-      "elytra": "2025-12-09 22:12:34 +0400"
+      "in_city": "2025-12-09 22:10:52 +0400"
     },
     "done": true
   },
   "minecraft:recipes/decorations/shulker_box": {
     "criteria": {
       "has_shulker_shell": "2025-12-09 22:11:53 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_water": {
-    "criteria": {
-      "has_diamond_helmet": "2025-12-09 22:12:20 +0400"
     },
     "done": true
   },
@@ -6232,21 +6215,39 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_mercury": {
+    "criteria": {
+      "has_diamond_helmet": "2025-12-09 22:12:20 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_water": {
+    "criteria": {
+      "has_diamond_helmet": "2025-12-09 22:12:20 +0400"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/diamond_dust_from_boots_with_mercury": {
     "criteria": {
       "has_diamond_boots": "2025-12-09 22:12:25 +0400"
     },
     "done": true
   },
-  "minecraft:end/find_end_city": {
-    "criteria": {
-      "in_city": "2025-12-09 22:10:52 +0400"
-    },
-    "done": true
-  },
   "techreborn:recipes/industrial_grinder/diamond_dust_from_boots_with_water": {
     "criteria": {
       "has_diamond_boots": "2025-12-09 22:12:25 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/phantom_membrane_from_elytra": {
+    "criteria": {
+      "has_elytra": "2025-12-09 22:12:34 +0400"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-12-09 22:12:34 +0400"
     },
     "done": true
   },
