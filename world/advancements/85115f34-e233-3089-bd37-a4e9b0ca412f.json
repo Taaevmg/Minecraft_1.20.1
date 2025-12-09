@@ -5197,9 +5197,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/black_dye_from_ink_sac": {
+    "criteria": {
+      "has_ink_sac": "2025-12-09 20:32:47 +0400"
+    },
+    "done": true
+  },
   "fishingparadise:metal_fishing_rod": {
     "criteria": {
       "requirement": "2025-12-09 20:19:14 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-12-09 20:32:47 +0400"
     },
     "done": true
   },

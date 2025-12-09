@@ -1167,11 +1167,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-12-06 21:53:48 +0400",
+      "minecraft:deep_ocean": "2025-12-09 20:53:40 +0400",
       "minecraft:sunflower_plains": "2025-12-07 21:20:15 +0400",
       "minecraft:birch_forest": "2025-12-06 21:55:32 +0400",
       "minecraft:beach": "2025-12-06 20:37:41 +0400",
       "minecraft:dark_forest": "2025-12-06 23:06:46 +0400",
       "minecraft:river": "2025-12-06 21:53:51 +0400",
+      "minecraft:forest": "2025-12-09 20:52:33 +0400",
       "minecraft:ocean": "2025-12-07 16:07:08 +0400",
       "minecraft:windswept_savanna": "2025-12-07 21:19:51 +0400",
       "minecraft:flower_forest": "2025-12-07 20:58:54 +0400",
@@ -5885,15 +5887,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks": {
+  "create:encased_fan": {
     "criteria": {
-      "has_stone": "2025-12-07 23:28:09 +0400"
+      "0": "2025-12-07 22:49:21 +0400"
+    },
+    "done": true
+  },
+  "create:fan_processing": {
+    "criteria": {
+      "0": "2025-12-07 22:54:56 +0400"
     },
     "done": true
   },
   "create:recipes/misc/crafting/kinetics/smart_chute": {
     "criteria": {
       "has_item": "2025-12-07 22:56:42 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/crafter_slot_cover": {
+    "criteria": {
+      "has_item": "2025-12-07 23:02:51 +0400"
+    },
+    "done": true
+  },
+  "create:mechanical_crafter": {
+    "criteria": {
+      "0": "2025-12-07 23:14:16 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-12-07 23:28:09 +0400"
     },
     "done": true
   },
@@ -5915,12 +5941,6 @@
     },
     "done": true
   },
-  "create:mechanical_crafter": {
-    "criteria": {
-      "0": "2025-12-07 23:14:16 +0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-12-07 23:28:09 +0400"
@@ -5936,12 +5956,6 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-12-07 23:28:09 +0400"
-    },
-    "done": true
-  },
-  "create:encased_fan": {
-    "criteria": {
-      "0": "2025-12-07 22:49:21 +0400"
     },
     "done": true
   },
@@ -5981,12 +5995,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/crafter_slot_cover": {
-    "criteria": {
-      "has_item": "2025-12-07 23:02:51 +0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-12-07 23:28:09 +0400"
@@ -5999,9 +6007,15 @@
     },
     "done": true
   },
-  "create:fan_processing": {
+  "create:crushing_wheel": {
     "criteria": {
-      "0": "2025-12-07 22:54:56 +0400"
+      "0": "2025-12-09 20:46:48 +0400"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-12-09 20:54:33 +0400"
     },
     "done": true
   },
