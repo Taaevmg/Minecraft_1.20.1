@@ -44,10 +44,13 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "muskeg": "2025-12-08 20:14:17 +0400",
+      "shrubland": "2025-12-09 23:54:33 +0400",
       "erupting_inferno": "2025-12-07 20:26:26 +0400",
       "jacaranda_glade": "2025-12-07 22:52:15 +0400",
       "cold_desert": "2025-12-08 19:56:34 +0400",
+      "maple_woods": "2025-12-09 23:54:31 +0400",
       "orchard": "2025-12-07 15:39:26 +0400",
+      "field": "2025-12-09 23:54:59 +0400",
       "overgrown_greens": "2025-12-06 23:27:08 +0400",
       "coniferous_forest": "2025-12-08 19:50:07 +0400",
       "redwood_forest": "2025-12-07 15:40:03 +0400",
@@ -91,8 +94,10 @@
       "cooked_mutton": "2025-12-09 22:56:18 +0400",
       "cooked_beef": "2025-12-07 20:46:59 +0400",
       "baked_potato": "2025-12-07 22:10:00 +0400",
+      "cooked_cod": "2025-12-09 23:42:13 +0400",
       "bread": "2025-12-06 22:51:26 +0400",
       "golden_apple": "2025-12-09 21:54:34 +0400",
+      "rotten_flesh": "2025-12-09 23:38:23 +0400",
       "cooked_chicken": "2025-12-07 14:52:49 +0400"
     },
     "done": false
@@ -5995,6 +6000,24 @@
     },
     "done": true
   },
+  "techreborn:recipes/chemical_reactor/purple_candle_from_candle_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2025-12-09 23:28:01 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_candle": {
+    "criteria": {
+      "has_purple_dye": "2025-12-09 23:28:01 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/purple_concrete_powder_from_magenta_concrete_powder_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2025-12-09 23:28:01 +0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-12-09 23:22:54 +0400"
@@ -6007,9 +6030,111 @@
     },
     "done": true
   },
+  "techreborn:recipes/chemical_reactor/magenta_candle_from_pink_candle_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2025-12-09 23:28:01 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-12-09 23:39:22 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/purple_stained_glass_from_magenta_stained_glass_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2025-12-09 23:28:01 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/purple_terracotta_from_magenta_terracotta_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2025-12-09 23:28:01 +0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-12-09 23:55:06 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/purple_wool_from_white_wool_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2025-12-09 23:28:01 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/magenta_stained_glass_from_pink_stained_glass_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2025-12-09 23:28:01 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/purple_concrete_powder_from_white_concrete_powder_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2025-12-09 23:28:01 +0400"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/manual": {
     "criteria": {
       "has_book": "2025-12-09 23:22:54 +0400"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/purple_placard_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-12-09 23:28:01 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/purple_stained_glass_pane_from_glass_pane_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2025-12-09 23:28:01 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/purple_terracotta_from_terracotta_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2025-12-09 23:28:01 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/purple_stained_glass_from_glass_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2025-12-09 23:28:01 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/magenta_wool_from_pink_wool_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2025-12-09 23:28:01 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/purple_carpet_from_white_carpet_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2025-12-09 23:28:01 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/magenta_concrete_powder_from_pink_concrete_powder_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2025-12-09 23:28:01 +0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/make_a_sign_glow": {
+    "criteria": {
+      "make_a_sign_glow": "2025-12-09 23:41:25 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/magenta_stained_glass_pane_from_pink_stained_glass_pane_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2025-12-09 23:28:01 +0400"
     },
     "done": true
   },
@@ -6019,15 +6144,87 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-12-09 23:39:22 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/purple_stained_glass_pane_from_magenta_stained_glass_pane_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2025-12-09 23:28:01 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/purple_wool_from_magenta_wool_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2025-12-09 23:28:01 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-12-09 23:39:22 +0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-12-09 23:22:54 +0400"
     },
     "done": true
   },
+  "techreborn:recipes/chemical_reactor/purple_candle_from_magenta_candle_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2025-12-09 23:28:01 +0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/white_dye_from_tall_white_lavender": {
+    "criteria": {
+      "has_tall_white_lavender": "2025-12-09 23:55:23 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-12-09 23:28:01 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-12-09 23:28:01 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-12-09 23:28:01 +0400"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/paper_from_book": {
     "criteria": {
       "has_book": "2025-12-09 23:22:54 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/purple_carpet_from_magenta_carpet_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2025-12-09 23:28:01 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/magenta_terracotta_from_pink_terracotta_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2025-12-09 23:28:01 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/magenta_carpet_from_pink_carpet_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2025-12-09 23:28:01 +0400"
     },
     "done": true
   },
