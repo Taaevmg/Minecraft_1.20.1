@@ -6269,6 +6269,12 @@
     },
     "done": true
   },
+  "create:funnel": {
+    "criteria": {
+      "0": "2025-12-10 00:24:18 +0400"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/red_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2025-12-09 23:29:07 +0400"
@@ -6284,6 +6290,12 @@
   "create:recipes/building_blocks/crafting/kinetics/blue_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2025-12-09 23:29:07 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/plantball_from_leaves": {
+    "criteria": {
+      "has_leaves": "2025-12-10 00:03:48 +0400"
     },
     "done": true
   },

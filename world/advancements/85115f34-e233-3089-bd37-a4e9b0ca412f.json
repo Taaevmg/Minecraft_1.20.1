@@ -45,6 +45,7 @@
     "criteria": {
       "muskeg": "2025-12-08 20:14:17 +0400",
       "shrubland": "2025-12-09 23:54:33 +0400",
+      "rocky_shrubland": "2025-12-10 00:00:01 +0400",
       "erupting_inferno": "2025-12-07 20:26:26 +0400",
       "jacaranda_glade": "2025-12-07 22:52:15 +0400",
       "cold_desert": "2025-12-08 19:56:34 +0400",
@@ -336,6 +337,7 @@
       "minecraft:windswept_savanna": "2025-12-07 22:52:31 +0400",
       "minecraft:deep_lukewarm_ocean": "2025-12-07 22:30:39 +0400",
       "minecraft:flower_forest": "2025-12-07 15:37:02 +0400",
+      "minecraft:old_growth_birch_forest": "2025-12-10 00:19:37 +0400",
       "minecraft:plains": "2025-12-07 15:37:01 +0400"
     },
     "done": false
@@ -6000,9 +6002,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-12-10 00:00:07 +0400"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/purple_candle_from_candle_with_purple_dye": {
     "criteria": {
       "has_purple_dye": "2025-12-09 23:28:01 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-12-10 00:19:40 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-12-10 00:00:07 +0400"
     },
     "done": true
   },
@@ -6024,9 +6044,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-12-10 00:10:53 +0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-12-09 23:22:54 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-12-10 00:09:57 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-12-10 00:00:07 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-12-10 00:00:07 +0400"
     },
     "done": true
   },
@@ -6054,9 +6098,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-12-10 00:19:40 +0400"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-12-09 23:55:06 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-12-10 00:19:40 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-12-10 00:00:07 +0400"
     },
     "done": true
   },
@@ -6066,9 +6128,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-12-10 00:00:07 +0400"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/magenta_stained_glass_from_pink_stained_glass_with_purple_dye": {
     "criteria": {
       "has_purple_dye": "2025-12-09 23:28:01 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/calcite_pillar_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-12-10 00:00:07 +0400"
     },
     "done": true
   },
@@ -6114,6 +6188,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-12-10 00:00:07 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-12-10 00:09:57 +0400"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/purple_carpet_from_white_carpet_with_purple_dye": {
     "criteria": {
       "has_purple_dye": "2025-12-09 23:28:01 +0400"
@@ -6141,6 +6227,18 @@
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-12-09 23:22:54 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-12-10 00:00:07 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-12-10 00:00:07 +0400"
     },
     "done": true
   },
@@ -6174,15 +6272,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-12-10 00:00:07 +0400"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/purple_candle_from_magenta_candle_with_purple_dye": {
     "criteria": {
       "has_purple_dye": "2025-12-09 23:28:01 +0400"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-12-10 00:10:53 +0400"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/white_dye_from_tall_white_lavender": {
     "criteria": {
       "has_tall_white_lavender": "2025-12-09 23:55:23 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-12-10 00:00:07 +0400"
     },
     "done": true
   },
@@ -6198,9 +6314,45 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-12-10 00:00:07 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-12-10 00:00:07 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-12-10 00:00:07 +0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_purple_carpet": {
     "criteria": {
       "has_needed_dye": "2025-12-09 23:28:01 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-12-10 00:00:07 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-12-10 00:00:07 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-12-10 00:00:07 +0400"
     },
     "done": true
   },
@@ -6216,15 +6368,45 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-12-10 00:00:07 +0400"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/magenta_terracotta_from_pink_terracotta_with_purple_dye": {
     "criteria": {
       "has_purple_dye": "2025-12-09 23:28:01 +0400"
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-12-10 00:15:39 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-12-10 00:15:39 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-12-10 00:15:39 +0400"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/magenta_carpet_from_pink_carpet_with_purple_dye": {
     "criteria": {
       "has_purple_dye": "2025-12-09 23:28:01 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-12-10 00:19:40 +0400"
     },
     "done": true
   },
