@@ -7849,6 +7849,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/gold_coinstack": {
+    "criteria": {
+      "has_item": "2025-12-10 16:54:22 +0400"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/white_shipping_container_from_dyeing_vaults": {
     "criteria": {
       "has_item": "2025-12-10 16:11:06 +0400"
