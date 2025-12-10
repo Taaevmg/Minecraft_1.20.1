@@ -7813,6 +7813,18 @@
     },
     "done": true
   },
+  "create:chute": {
+    "criteria": {
+      "0": "2025-12-10 17:00:49 +0400"
+    },
+    "done": true
+  },
+  "create:funnel": {
+    "criteria": {
+      "0": "2025-12-10 17:20:04 +0400"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/magenta_shipping_container_from_dyeing_vaults": {
     "criteria": {
       "has_item": "2025-12-10 16:11:06 +0400"
@@ -7894,6 +7906,12 @@
   "createdeco:recipes/decorations/brown_shipping_container_from_dyeing_vaults": {
     "criteria": {
       "has_item": "2025-12-10 16:11:06 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/filter_clear": {
+    "criteria": {
+      "has_item": "2025-12-10 17:08:42 +0400"
     },
     "done": true
   },
