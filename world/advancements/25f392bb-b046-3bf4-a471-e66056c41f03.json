@@ -7958,27 +7958,45 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
+  "modern_industrialization:steam_mining_drill": {
     "criteria": {
-      "has_stone_types_scorchia": "2025-12-11 22:14:47 +0400"
+      "checkInv": "2025-12-11 20:57:21 +0400"
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
+  "minecraft:recipes/misc/coal": {
     "criteria": {
-      "has_stone_types_ochrum": "2025-12-11 21:33:15 +0400"
+      "has_coal_block": "2025-12-11 20:58:52 +0400"
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
+  "techreborn:recipes/compressor/coal_plate_from_block": {
     "criteria": {
-      "has_stone_types_scorchia": "2025-12-11 22:14:47 +0400"
+      "has_coal_block": "2025-12-11 20:58:52 +0400"
     },
     "done": true
   },
-  "vanillabackport:recipes/transportation/pink_harness": {
+  "techreborn:recipes/industrial_grinder/coal_from_coal_ore_with_mercury": {
     "criteria": {
-      "has_dried_ghast": "2025-12-11 21:58:48 +0400"
+      "has_tag_c_coal_ores": "2025-12-11 20:59:59 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-12-11 20:59:59 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-12-11 20:59:59 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/coal_from_coal_ore_with_water": {
+    "criteria": {
+      "has_tag_c_coal_ores": "2025-12-11 20:59:59 +0400"
     },
     "done": true
   },
@@ -7988,9 +8006,33 @@
     },
     "done": true
   },
-  "vanillabackport:recipes/transportation/magenta_harness": {
+  "techreborn:recipes/assembling_machine/wayfinder_armor_trim_smithing_template": {
     "criteria": {
-      "has_dried_ghast": "2025-12-11 21:58:48 +0400"
+      "has_light_gray_terracotta": "2025-12-11 21:09:07 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-12-11 21:09:07 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/clay_ball_from_clay": {
+    "criteria": {
+      "has_clay": "2025-12-11 21:09:07 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/grass_block": {
+    "criteria": {
+      "has_grass_block": "2025-12-11 21:10:29 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-12-11 21:33:15 +0400"
     },
     "done": true
   },
@@ -8006,63 +8048,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_scorchia_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-12-11 22:14:47 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-12-11 21:35:06 +0400"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-12-11 22:14:47 +0400"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-12-11 22:14:47 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_coal_block": "2025-12-11 20:58:52 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recycler": {
-    "criteria": {
-      "crit_0": "2025-12-11 21:47:43 +0400"
-    },
-    "done": true
-  },
-  "vanillabackport:recipes/transportation/purple_harness": {
-    "criteria": {
-      "has_dried_ghast": "2025-12-11 21:58:48 +0400"
-    },
-    "done": true
-  },
-  "vanillabackport:recipes/transportation/white_harness": {
-    "criteria": {
-      "has_dried_ghast": "2025-12-11 21:58:48 +0400"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/ochrum_pillar_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-12-11 21:33:15 +0400"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-12-11 22:14:47 +0400"
     },
     "done": true
   },
@@ -8072,33 +8060,9 @@
     },
     "done": true
   },
-  "modern_industrialization:steam_mining_drill": {
-    "criteria": {
-      "checkInv": "2025-12-11 20:57:21 +0400"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-12-11 21:33:15 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/grinder/yellow_garnet_dust": {
-    "criteria": {
-      "has_tag_c_yellow_garnet_gems": "2025-12-11 22:52:55 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2025-12-11 22:35:13 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/sphalerite_ore_with_water": {
-    "criteria": {
-      "has_sphalerite_ore": "2025-12-11 22:57:35 +0400"
     },
     "done": true
   },
@@ -8108,141 +8072,9 @@
     },
     "done": true
   },
-  "vanillabackport:recipes/transportation/red_harness": {
-    "criteria": {
-      "has_dried_ghast": "2025-12-11 21:58:48 +0400"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-12-11 21:33:15 +0400"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-12-11 22:14:47 +0400"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-12-11 22:14:47 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/assembling_machine/wayfinder_armor_trim_smithing_template": {
-    "criteria": {
-      "has_light_gray_terracotta": "2025-12-11 21:09:07 +0400"
-    },
-    "done": true
-  },
-  "vanillabackport:recipes/transportation/orange_harness": {
-    "criteria": {
-      "has_dried_ghast": "2025-12-11 21:58:48 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-12-11 21:35:06 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/chemical_reactor/ender_eye": {
-    "criteria": {
-      "has_ender_pearl": "2025-12-11 22:40:12 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/coal_from_coal_ore_with_mercury": {
-    "criteria": {
-      "has_tag_c_coal_ores": "2025-12-11 20:59:59 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_gold_block": {
-    "criteria": {
-      "has_raw_gold": "2025-12-11 21:35:06 +0400"
-    },
-    "done": true
-  },
-  "techreborn:scrapboxinator": {
-    "criteria": {
-      "crit_0": "2025-12-11 21:52:20 +0400"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-12-11 22:14:47 +0400"
-    },
-    "done": true
-  },
-  "vanillabackport:recipes/transportation/black_harness": {
-    "criteria": {
-      "has_dried_ghast": "2025-12-11 21:58:48 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/centrifuge/soul_sand": {
-    "criteria": {
-      "has_soul_sand": "2025-12-11 22:36:03 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/terracotta": {
-    "criteria": {
-      "has_clay_block": "2025-12-11 21:09:07 +0400"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_scorchia_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-12-11 22:14:47 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/refined_iron_ingot_from_pyrite_ore": {
-    "criteria": {
-      "has_pyrite_ore": "2025-12-11 22:57:26 +0400"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/layered_scorchia_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-12-11 22:14:47 +0400"
-    },
-    "done": true
-  },
-  "createdeco:recipes/building_blocks/dusk_bricks": {
-    "criteria": {
-      "has_item": "2025-12-11 22:14:47 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/centrifuge/raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-12-11 21:35:06 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_lamp": {
-    "criteria": {
-      "has_glowstone": "2025-12-11 22:10:33 +0400"
-    },
-    "done": true
-  },
-  "vanillabackport:recipes/transportation/blue_harness": {
-    "criteria": {
-      "has_dried_ghast": "2025-12-11 21:58:48 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/pyrite_dust_from_pyrite_ore_with_water": {
-    "criteria": {
-      "has_tag_c_pyrite_ores": "2025-12-11 22:57:26 +0400"
     },
     "done": true
   },
@@ -8252,129 +8084,15 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-12-11 22:14:47 +0400"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/scorchia_pillar_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-12-11 22:14:47 +0400"
-    },
-    "done": true
-  },
-  "vanillabackport:recipes/transportation/lime_harness": {
-    "criteria": {
-      "has_dried_ghast": "2025-12-11 21:58:48 +0400"
-    },
-    "done": true
-  },
-  "vanillabackport:recipes/transportation/gray_harness": {
-    "criteria": {
-      "has_dried_ghast": "2025-12-11 21:58:48 +0400"
-    },
-    "done": true
-  },
-  "vanillabackport:recipes/transportation/cyan_harness": {
-    "criteria": {
-      "has_dried_ghast": "2025-12-11 21:58:48 +0400"
-    },
-    "done": true
-  },
-  "vanillabackport:recipes/tools/bundle": {
-    "criteria": {
-      "has_string": "2025-12-11 21:38:19 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
-    "criteria": {
-      "has_coal_ore": "2025-12-11 20:59:59 +0400"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-12-11 22:14:47 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/centrifuge/grass_block": {
-    "criteria": {
-      "has_grass_block": "2025-12-11 21:10:29 +0400"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-12-11 22:14:47 +0400"
-    },
-    "done": true
-  },
-  "vanillabackport:recipes/transportation/yellow_harness": {
-    "criteria": {
-      "has_dried_ghast": "2025-12-11 21:58:48 +0400"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-12-11 21:33:15 +0400"
     },
     "done": true
   },
-  "create:recipes/misc/smelting/scoria": {
-    "criteria": {
-      "has_item": "2025-12-11 22:36:03 +0400"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-12-11 21:33:15 +0400"
-    },
-    "done": true
-  },
-  "vanillabackport:recipes/transportation/brown_harness": {
-    "criteria": {
-      "has_dried_ghast": "2025-12-11 21:58:48 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/small_dust/sphalerite_small_dust_from_dust": {
-    "criteria": {
-      "has_sphalerite_dust": "2025-12-11 22:52:55 +0400"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-12-11 22:14:47 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/storage_block/yellow_garnet_storage_block": {
-    "criteria": {
-      "has_yellow_garnet_gem": "2025-12-11 22:52:55 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_glow_ink_sac": "2025-12-11 21:34:11 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/scrap_box": {
-    "criteria": {
-      "has_scrap": "2025-12-11 21:52:08 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/quartz_from_nether_quartz_ore_with_water": {
-    "criteria": {
-      "has_nether_quartz_ore": "2025-12-11 22:17:14 +0400"
     },
     "done": true
   },
@@ -8390,63 +8108,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
-    "criteria": {
-      "has_coal_ore": "2025-12-11 20:59:59 +0400"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-12-11 22:14:47 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/compressor/coal_plate_from_block": {
-    "criteria": {
-      "has_coal_block": "2025-12-11 20:58:52 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/clay_ball_from_clay": {
-    "criteria": {
-      "has_clay": "2025-12-11 21:09:07 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/lead": {
-    "criteria": {
-      "has_the_recipe": "2025-12-11 21:38:19 +0400"
-    },
-    "done": true
-  },
-  "vanillabackport:recipes/transportation/green_harness": {
-    "criteria": {
-      "has_dried_ghast": "2025-12-11 21:58:48 +0400"
-    },
-    "done": true
-  },
-  "vanillabackport:recipes/tools/lead": {
-    "criteria": {
-      "has_string": "2025-12-11 21:38:19 +0400"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_ochrum_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-12-11 21:33:15 +0400"
-    },
-    "done": true
-  },
-  "vanillabackport:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2025-12-11 21:57:05 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_electrolyzer/pyrite_dust": {
-    "criteria": {
-      "has_pyrite_dust": "2025-12-11 22:53:04 +0400"
     },
     "done": true
   },
@@ -8456,69 +8120,9 @@
     },
     "done": true
   },
-  "vanillabackport:recipes/transportation/light_blue_harness": {
-    "criteria": {
-      "has_dried_ghast": "2025-12-11 21:58:48 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_electrolyzer/sphalerite_dust": {
-    "criteria": {
-      "has_sphalerite_dust": "2025-12-11 22:52:55 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/machine/scrapboxinator": {
-    "criteria": {
-      "has_scrap_box": "2025-12-11 21:52:11 +0400"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-12-11 22:14:47 +0400"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/scorchia_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-12-11 22:14:47 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/small_dust/pyrite_small_dust_from_dust": {
-    "criteria": {
-      "has_pyrite_dust": "2025-12-11 22:53:04 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/coal_from_coal_ore_with_water": {
-    "criteria": {
-      "has_tag_c_coal_ores": "2025-12-11 20:59:59 +0400"
-    },
-    "done": true
-  },
-  "vanillabackport:recipes/transportation/pale_oak_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-12-11 22:25:04 +0400"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-12-11 21:33:15 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/quartz": {
-    "criteria": {
-      "has_nether_quartz_ore": "2025-12-11 22:17:14 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2025-12-11 22:35:13 +0400"
     },
     "done": true
   },
@@ -8546,9 +8150,339 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-12-11 21:34:11 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-12-11 21:35:06 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-12-11 21:35:06 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-12-11 21:35:06 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-12-11 21:35:06 +0400"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/tools/bundle": {
+    "criteria": {
+      "has_string": "2025-12-11 21:38:19 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_the_recipe": "2025-12-11 21:38:19 +0400"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/tools/lead": {
+    "criteria": {
+      "has_string": "2025-12-11 21:38:19 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recycler": {
+    "criteria": {
+      "crit_0": "2025-12-11 21:47:43 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/scrap_box": {
+    "criteria": {
+      "has_scrap": "2025-12-11 21:52:08 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/scrapboxinator": {
+    "criteria": {
+      "has_scrap_box": "2025-12-11 21:52:11 +0400"
+    },
+    "done": true
+  },
+  "techreborn:scrapboxinator": {
+    "criteria": {
+      "crit_0": "2025-12-11 21:52:20 +0400"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-12-11 21:57:05 +0400"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/transportation/pink_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-12-11 21:58:48 +0400"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/transportation/magenta_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-12-11 21:58:48 +0400"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/transportation/purple_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-12-11 21:58:48 +0400"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/transportation/white_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-12-11 21:58:48 +0400"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/transportation/red_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-12-11 21:58:48 +0400"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/transportation/orange_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-12-11 21:58:48 +0400"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/transportation/black_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-12-11 21:58:48 +0400"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/transportation/blue_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-12-11 21:58:48 +0400"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/transportation/lime_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-12-11 21:58:48 +0400"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/transportation/gray_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-12-11 21:58:48 +0400"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/transportation/cyan_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-12-11 21:58:48 +0400"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/transportation/yellow_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-12-11 21:58:48 +0400"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/transportation/brown_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-12-11 21:58:48 +0400"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/transportation/green_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-12-11 21:58:48 +0400"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/transportation/light_blue_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-12-11 21:58:48 +0400"
+    },
+    "done": true
+  },
   "vanillabackport:recipes/transportation/light_gray_harness": {
     "criteria": {
       "has_dried_ghast": "2025-12-11 21:58:48 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-12-11 22:10:33 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-12-11 22:14:47 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-12-11 22:14:47 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-12-11 22:14:47 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-12-11 22:14:47 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-12-11 22:14:47 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-12-11 22:14:47 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-12-11 22:14:47 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-12-11 22:14:47 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-12-11 22:14:47 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-12-11 22:14:47 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-12-11 22:14:47 +0400"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/dusk_bricks": {
+    "criteria": {
+      "has_item": "2025-12-11 22:14:47 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-12-11 22:14:47 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/scorchia_pillar_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-12-11 22:14:47 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-12-11 22:14:47 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-12-11 22:14:47 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-12-11 22:14:47 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-12-11 22:14:47 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-12-11 22:14:47 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-12-11 22:14:47 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/quartz_from_nether_quartz_ore_with_water": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-12-11 22:17:14 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-12-11 22:17:14 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-12-11 22:17:14 +0400"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/transportation/pale_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-12-11 22:25:04 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-12-11 22:35:13 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-12-11 22:35:13 +0400"
     },
     "done": true
   },
@@ -8558,9 +8492,75 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/quartz_from_blasting": {
+  "techreborn:recipes/centrifuge/soul_sand": {
     "criteria": {
-      "has_nether_quartz_ore": "2025-12-11 22:17:14 +0400"
+      "has_soul_sand": "2025-12-11 22:36:03 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-12-11 22:36:03 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/ender_eye": {
+    "criteria": {
+      "has_ender_pearl": "2025-12-11 22:40:12 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/yellow_garnet_dust": {
+    "criteria": {
+      "has_tag_c_yellow_garnet_gems": "2025-12-11 22:52:55 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/small_dust/sphalerite_small_dust_from_dust": {
+    "criteria": {
+      "has_sphalerite_dust": "2025-12-11 22:52:55 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/yellow_garnet_storage_block": {
+    "criteria": {
+      "has_yellow_garnet_gem": "2025-12-11 22:52:55 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_electrolyzer/sphalerite_dust": {
+    "criteria": {
+      "has_sphalerite_dust": "2025-12-11 22:52:55 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_electrolyzer/pyrite_dust": {
+    "criteria": {
+      "has_pyrite_dust": "2025-12-11 22:53:04 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/small_dust/pyrite_small_dust_from_dust": {
+    "criteria": {
+      "has_pyrite_dust": "2025-12-11 22:53:04 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/refined_iron_ingot_from_pyrite_ore": {
+    "criteria": {
+      "has_pyrite_ore": "2025-12-11 22:57:26 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/pyrite_dust_from_pyrite_ore_with_water": {
+    "criteria": {
+      "has_tag_c_pyrite_ores": "2025-12-11 22:57:26 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/sphalerite_ore_with_water": {
+    "criteria": {
+      "has_sphalerite_ore": "2025-12-11 22:57:35 +0400"
     },
     "done": true
   },
