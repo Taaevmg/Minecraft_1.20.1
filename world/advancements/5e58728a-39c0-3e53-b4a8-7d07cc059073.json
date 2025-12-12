@@ -8029,6 +8029,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/bamboo_fence": {
+    "criteria": {
+      "has_planks": "2025-12-12 23:20:37 +0400"
+    },
+    "done": true
+  },
   "vanillabackport:recipes/transportation/orange_harness": {
     "criteria": {
       "has_dried_ghast": "2025-12-12 22:50:43 +0400"
@@ -8041,9 +8047,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/bamboo_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-12-12 23:20:37 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_slab": {
+    "criteria": {
+      "has_planks": "2025-12-12 23:20:37 +0400"
+    },
+    "done": true
+  },
   "create_ltab:cold": {
     "criteria": {
       "snowblock": "2025-12-12 23:06:43 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-12-12 23:18:06 +0400"
     },
     "done": true
   },
@@ -8056,6 +8080,12 @@
   "vanillabackport:recipes/transportation/lime_harness": {
     "criteria": {
       "has_dried_ghast": "2025-12-12 22:50:43 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_button": {
+    "criteria": {
+      "has_planks": "2025-12-12 23:20:37 +0400"
     },
     "done": true
   },
@@ -8095,9 +8125,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/bamboo_sign": {
+    "criteria": {
+      "has_planks": "2025-12-12 23:20:37 +0400"
+    },
+    "done": true
+  },
   "vanillabackport:recipes/transportation/green_harness": {
     "criteria": {
       "has_dried_ghast": "2025-12-12 22:50:43 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_door": {
+    "criteria": {
+      "has_planks": "2025-12-12 23:20:37 +0400"
     },
     "done": true
   },
@@ -8107,9 +8149,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/bamboo_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-12-12 23:20:37 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-12-12 23:20:37 +0400"
+    },
+    "done": true
+  },
   "vanillabackport:recipes/transportation/light_gray_harness": {
     "criteria": {
       "has_dried_ghast": "2025-12-12 22:50:43 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_stairs": {
+    "criteria": {
+      "has_planks": "2025-12-12 23:20:37 +0400"
     },
     "done": true
   },
