@@ -8565,9 +8565,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2025-12-12 18:06:18 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2025-12-12 18:06:18 +0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-12-12 17:45:28 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/bronze_sword": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-12-12 18:02:31 +0400"
     },
     "done": true
   },
@@ -8583,9 +8601,27 @@
     },
     "done": true
   },
+  "createdeco:recipes/building_blocks/tiled_red_brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-12-12 18:06:18 +0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-12-12 17:45:28 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-12-12 18:06:18 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/nak_coolant_cell_60k_alt": {
+    "criteria": {
+      "has_water_coolant_cell_10k": "2025-12-12 18:05:12 +0400"
     },
     "done": true
   },
@@ -8601,6 +8637,24 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/smelting/bronze_ingot_from_c_bronze_dusts": {
+    "criteria": {
+      "has_tag_c_bronze_dusts": "2025-12-12 17:59:27 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/bronze_chestplate": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-12-12 18:02:31 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/upgrade/overclocker_upgrade": {
+    "criteria": {
+      "has_water_coolant_cell_10k": "2025-12-12 18:05:12 +0400"
+    },
+    "done": true
+  },
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2025-12-12 17:50:38 +0400"
@@ -8610,6 +8664,48 @@
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-12-12 17:45:28 +0400"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/tiled_red_bricks_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-12-12 18:06:18 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/tool/painting_tool": {
+    "criteria": {
+      "has_bronze_ingot": "2025-12-12 18:02:31 +0400"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/cracked_red_bricks_from_bricks_blasting": {
+    "criteria": {
+      "has_bricks": "2025-12-12 18:06:18 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2025-12-12 18:06:18 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/bronze_axe": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-12-12 18:02:31 +0400"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/long_red_bricks_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-12-12 18:06:18 +0400"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/mossy_red_bricks_from_moss_block": {
+    "criteria": {
+      "hasitem": "2025-12-12 18:06:18 +0400"
     },
     "done": true
   },
@@ -8625,9 +8721,93 @@
     },
     "done": true
   },
+  "createdeco:recipes/building_blocks/long_red_brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-12-12 18:06:18 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/bronze_storage_block": {
+    "criteria": {
+      "has_bronze_ingot": "2025-12-12 18:02:31 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/water_coolant_cell_30k": {
+    "criteria": {
+      "has_water_coolant_cell_10k": "2025-12-12 18:05:12 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/ingot/mixed_metal_ingot": {
+    "criteria": {
+      "has_bronze_ingot": "2025-12-12 18:02:31 +0400"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/mossy_red_bricks_from_vine": {
+    "criteria": {
+      "hasitem": "2025-12-12 18:06:18 +0400"
+    },
+    "done": true
+  },
+  "modern_industrialization:coke_oven": {
+    "criteria": {
+      "checkInv": "2025-12-12 18:09:08 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/bronze_dust": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-12-12 18:02:31 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/bronze_boots": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-12-12 18:02:31 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/bronze_hoe": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-12-12 18:02:31 +0400"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/alloy_smelter": {
     "criteria": {
       "has_electric_furnace": "2025-12-12 17:43:49 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/nak_coolant_cell_60k": {
+    "criteria": {
+      "has_water_coolant_cell_10k": "2025-12-12 18:05:12 +0400"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/long_red_brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-12-12 18:06:18 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-12-12 18:06:14 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-12-12 18:06:18 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/bronze_nugget": {
+    "criteria": {
+      "has_bronze_ingot": "2025-12-12 18:02:31 +0400"
     },
     "done": true
   },
@@ -8643,9 +8823,33 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/tool/wrench": {
+    "criteria": {
+      "has_bronze_ingot": "2025-12-12 18:02:31 +0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-12-12 17:45:28 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/bronze_plate": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-12-12 18:02:31 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-12-12 18:06:14 +0400"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/short_red_bricks_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-12-12 18:06:18 +0400"
     },
     "done": true
   },
@@ -8661,15 +8865,45 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/armor/bronze_helmet": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-12-12 18:02:31 +0400"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/cracked_red_bricks_from_bricks_smelting": {
+    "criteria": {
+      "has_bricks": "2025-12-12 18:06:18 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/bronze_leggings": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-12-12 18:02:31 +0400"
+    },
+    "done": true
+  },
   "techreborn:ironfurnace": {
     "criteria": {
       "crit_0": "2025-12-12 17:42:29 +0400"
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/tool/bronze_spade": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-12-12 18:02:31 +0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-12-12 17:45:28 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-12-12 18:06:18 +0400"
     },
     "done": true
   },
@@ -8688,6 +8922,48 @@
   "techreborn:recipes/extractor/string_from_crossbow": {
     "criteria": {
       "has_crossbow": "2025-12-12 17:50:36 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/bronze_pickaxe": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-12-12 18:02:31 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-12-12 18:06:14 +0400"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/short_red_brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-12-12 18:06:18 +0400"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/tiled_red_brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-12-12 18:06:18 +0400"
+    },
+    "done": true
+  },
+  "techreborn:upgrade": {
+    "criteria": {
+      "crit_0": "2025-12-12 18:05:56 +0400"
+    },
+    "done": false
+  },
+  "techreborn:recipes/misc/blasting/bronze_ingot_from_c_bronze_dusts": {
+    "criteria": {
+      "has_tag_c_bronze_dusts": "2025-12-12 17:59:27 +0400"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/short_red_brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-12-12 18:06:18 +0400"
     },
     "done": true
   },
