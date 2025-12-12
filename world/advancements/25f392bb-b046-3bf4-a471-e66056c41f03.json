@@ -8591,6 +8591,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-12-12 22:25:57 +0400"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/gray_terracotta_from_light_gray_terracotta_with_black_dye": {
     "criteria": {
       "has_black_dye": "2025-12-12 18:33:54 +0400"
@@ -8765,6 +8771,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_helmet": {
+    "criteria": {
+      "has_golden_helmet": "2025-12-12 22:19:47 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-12-12 22:25:57 +0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-12-12 17:45:28 +0400"
@@ -8786,6 +8804,12 @@
   "techreborn:recipes/crafting_table/tool/painting_tool": {
     "criteria": {
       "has_bronze_ingot": "2025-12-12 18:02:31 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-12-12 22:25:57 +0400"
     },
     "done": true
   },
@@ -8828,6 +8852,12 @@
   "minecraft:recipes/redstone/bamboo_pressure_plate": {
     "criteria": {
       "has_planks": "2025-12-12 18:40:22 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-12-12 22:25:57 +0400"
     },
     "done": true
   },
@@ -8957,6 +8987,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-12-12 22:25:57 +0400"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/parts/nak_coolant_cell_60k": {
     "criteria": {
       "has_water_coolant_cell_10k": "2025-12-12 18:05:12 +0400"
@@ -8969,9 +9005,21 @@
     },
     "done": true
   },
+  "createdeco:recipes/misc/netherite_nugget_from_netherite_ingot": {
+    "criteria": {
+      "has_netherite_ingot": "2025-12-12 22:25:57 +0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
       "has_brick": "2025-12-12 18:06:14 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-12-12 22:25:57 +0400"
     },
     "done": true
   },
@@ -8990,6 +9038,12 @@
   "techreborn:recipes/misc/crafting_table/nugget/bronze_nugget": {
     "criteria": {
       "has_bronze_ingot": "2025-12-12 18:02:31 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-12-12 22:25:57 +0400"
     },
     "done": true
   },
@@ -9104,6 +9158,18 @@
   "createdeco:recipes/building_blocks/short_red_bricks_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-12-12 18:06:18 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-12-12 22:25:57 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-12-12 22:25:57 +0400"
     },
     "done": true
   },
@@ -9239,6 +9305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-12-12 22:25:57 +0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bamboo_stairs": {
     "criteria": {
       "has_planks": "2025-12-12 18:40:22 +0400"
@@ -9248,6 +9320,12 @@
   "techreborn:recipes/chemical_reactor/gray_terracotta_from_white_terracotta_with_black_dye": {
     "criteria": {
       "has_black_dye": "2025-12-12 18:33:54 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/netherite_ingot_with_lava": {
+    "criteria": {
+      "has_ingot": "2025-12-12 22:25:57 +0400"
     },
     "done": true
   },

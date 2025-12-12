@@ -7240,9 +7240,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_deepslate": {
+  "vanillabackport:recipes/tools/bundle": {
     "criteria": {
-      "has_cobbled_deepslate": "2025-12-12 20:22:07 +0400"
+      "has_string": "2025-12-12 20:13:31 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_the_recipe": "2025-12-12 20:13:31 +0400"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/tools/lead": {
+    "criteria": {
+      "has_string": "2025-12-12 20:13:31 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/archer_pottery_sherd": {
+    "criteria": {
+      "has_bow": "2025-12-12 20:13:39 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-12-12 20:13:39 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/string_from_bow": {
+    "criteria": {
+      "has_bow": "2025-12-12 20:13:39 +0400"
     },
     "done": true
   },
@@ -7252,9 +7282,309 @@
     },
     "done": true
   },
-  "createdeco:recipes/decorations/copper_support_wedge": {
+  "techreborn:recipes/assembling_machine/sentry_armor_trim_smithing_template": {
     "criteria": {
-      "has_item": "2025-12-12 20:30:27 +0400"
+      "has_smooth_stone": "2025-12-12 20:13:53 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-12-12 20:13:53 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-12-12 20:13:53 +0400"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/transportation/pale_oak_boat": {
+    "criteria": {
+      "in_water": "2025-12-12 20:15:22 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-12-12 20:18:39 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-12-12 20:18:39 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-12-12 20:18:39 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-12-12 20:18:39 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-12-12 20:18:39 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-12-12 20:18:39 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-12-12 20:18:39 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-12-12 20:20:44 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_asurine_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-12-12 20:20:44 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-12-12 20:20:44 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-12-12 20:20:44 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-12-12 20:20:44 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-12-12 20:20:44 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/asurine_pillar_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-12-12 20:20:44 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-12-12 20:20:44 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/asurine_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-12-12 20:20:44 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-12-12 20:20:44 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_asurine_bricks_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-12-12 20:20:44 +0400"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/blue_bricks": {
+    "criteria": {
+      "has_item": "2025-12-12 20:20:44 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_brick_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-12-12 20:20:44 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_asurine_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-12-12 20:20:44 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_bricks_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-12-12 20:20:44 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_asurine_brick_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-12-12 20:20:44 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_asurine_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-12-12 20:20:44 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_asurine_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-12-12 20:20:44 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-12-12 20:20:44 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_asurine_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-12-12 20:20:44 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-12-12 20:21:05 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-12-12 20:21:05 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-12-12 20:21:05 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-12-12 20:21:05 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-12-12 20:21:05 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-12-12 20:21:05 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/calcite_pillar_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-12-12 20:21:05 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-12-12 20:21:05 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-12-12 20:21:05 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-12-12 20:21:05 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-12-12 20:21:05 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-12-12 20:21:05 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-12-12 20:21:05 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-12-12 20:21:05 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-12-12 20:21:05 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-12-12 20:21:05 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-12-12 20:21:05 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-12-12 20:21:05 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-12-12 20:21:05 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-12-12 20:22:07 +0400"
     },
     "done": true
   },
@@ -7264,9 +7594,117 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
-      "has_stone_types_calcite": "2025-12-12 20:21:05 +0400"
+      "has_cobbled_deepslate": "2025-12-12 20:22:07 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-12-12 20:22:07 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-12-12 20:22:07 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-12-12 20:22:07 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-12-12 20:22:07 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-12-12 20:22:07 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-12-12 20:22:07 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-12-12 20:22:07 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-12-12 20:22:07 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-12-12 20:22:07 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-12-12 20:22:07 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-12-12 20:22:07 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-12-12 20:22:07 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-12-12 20:22:07 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-12-12 20:22:07 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-12-12 20:22:07 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-12-12 20:22:07 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-12-12 20:22:07 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-12-12 20:22:07 +0400"
     },
     "done": true
   },
@@ -7288,9 +7726,75 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
-      "has_stone_types_asurine": "2025-12-12 20:20:44 +0400"
+      "has_polished_deepslate": "2025-12-12 20:24:01 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-12-12 20:24:01 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-12-12 20:24:01 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
+    "criteria": {
+      "has_polished_deepslate": "2025-12-12 20:24:01 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-12-12 20:24:01 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-12-12 20:24:01 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-12-12 20:24:01 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-12-12 20:24:01 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-12-12 20:24:01 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-12-12 20:24:01 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-12-12 20:24:01 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-12-12 20:24:01 +0400"
     },
     "done": true
   },
@@ -7300,87 +7804,33 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
-      "has_stone_types_calcite": "2025-12-12 20:21:05 +0400"
+      "has_raw_copper": "2025-12-12 20:28:03 +0400"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+  "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
-      "has_cobbled_deepslate": "2025-12-12 20:22:07 +0400"
+      "has_raw_copper": "2025-12-12 20:28:03 +0400"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
-      "has_mossy_cobblestone": "2025-12-12 20:18:39 +0400"
+      "has_raw_copper": "2025-12-12 20:28:03 +0400"
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_asurine_stairs_from_stone_types_asurine_stonecutting": {
+  "createdeco:recipes/decorations/copper_support_wedge": {
     "criteria": {
-      "has_stone_types_asurine": "2025-12-12 20:20:44 +0400"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-12-12 20:21:05 +0400"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_calcite_bricks_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-12-12 20:21:05 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/archer_pottery_sherd": {
-    "criteria": {
-      "has_bow": "2025-12-12 20:13:39 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2025-12-12 20:33:15 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/arms_up_pottery_sherd": {
-    "criteria": {
-      "has_totem_of_undying": "2025-12-12 20:35:54 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-12-12 20:18:39 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-12-12 20:22:07 +0400"
+      "has_item": "2025-12-12 20:30:27 +0400"
     },
     "done": true
   },
   "techreborn:recipes/assembling_machine/electronic_circuit": {
     "criteria": {
       "has_copper_plate": "2025-12-12 20:30:27 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-12-12 20:18:39 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/assembling_machine/sentry_armor_trim_smithing_template": {
-    "criteria": {
-      "has_smooth_stone": "2025-12-12 20:13:53 +0400"
     },
     "done": true
   },
@@ -7402,165 +7852,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-12-12 20:22:07 +0400"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-12-12 20:20:44 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2025-12-12 20:28:03 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-12-12 20:22:07 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
-    "criteria": {
-      "has_raw_copper": "2025-12-12 20:28:03 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/assembling_machine/wild_armor_trim_smithing_template": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-12-12 20:18:39 +0400"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/layered_calcite_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-12-12 20:21:05 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-12-12 20:22:07 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-12-12 20:22:07 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2025-12-12 20:24:01 +0400"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_asurine_slab_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-12-12 20:20:44 +0400"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_asurine_wall_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-12-12 20:20:44 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_sawmill/spruce_pressure_plate_from_slab": {
-    "criteria": {
-      "has_spruce_slab": "2025-12-12 21:05:01 +0400"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_calcite_wall_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-12-12 20:21:05 +0400"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/calcite_pillar_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-12-12 20:21:05 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-12-12 20:18:39 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2025-12-12 20:13:39 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-12-12 20:22:07 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2025-12-12 20:24:01 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2025-12-12 20:24:01 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/unit/storage/crude_storage_unit": {
-    "criteria": {
-      "has_barrel": "2025-12-12 21:05:07 +0400"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/copper_sheet_metal": {
     "criteria": {
       "has_item": "2025-12-12 20:30:27 +0400"
-    },
-    "done": true
-  },
-  "vanillabackport:recipes/tools/bundle": {
-    "criteria": {
-      "has_string": "2025-12-12 20:13:31 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
-    "criteria": {
-      "has_polished_deepslate": "2025-12-12 20:24:01 +0400"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-12-12 20:20:44 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/powered_rail": {
-    "criteria": {
-      "has_rail": "2025-12-12 20:33:15 +0400"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-12-12 20:21:05 +0400"
     },
     "done": true
   },
@@ -7570,81 +7864,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/grinder/saw_small_dust_from_wooden_slabs": {
-    "criteria": {
-      "has_tag_minecraft_wooden_slabs": "2025-12-12 21:05:01 +0400"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/asurine_pillar_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-12-12 20:20:44 +0400"
-    },
-    "done": true
-  },
-  "vanillabackport:recipes/transportation/pale_oak_boat": {
-    "criteria": {
-      "in_water": "2025-12-12 20:15:22 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-12-12 20:22:07 +0400"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_asurine_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-12-12 20:20:44 +0400"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/copper_mesh_fence": {
     "criteria": {
       "has_item": "2025-12-12 20:30:27 +0400"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/asurine_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-12-12 20:20:44 +0400"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_asurine_stairs_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-12-12 20:20:44 +0400"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-12-12 20:21:05 +0400"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-12-12 20:21:05 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2025-12-12 20:24:01 +0400"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_asurine_bricks_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-12-12 20:20:44 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/iron_ingot_from_rail": {
-    "criteria": {
-      "has_rail": "2025-12-12 20:33:15 +0400"
     },
     "done": true
   },
@@ -7654,39 +7876,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2025-12-12 20:24:01 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2025-12-12 21:05:01 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-12-12 20:22:07 +0400"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/copper_catwalk_forge": {
     "criteria": {
       "has_item": "2025-12-12 20:30:27 +0400"
-    },
-    "done": true
-  },
-  "createdeco:recipes/building_blocks/blue_bricks": {
-    "criteria": {
-      "has_item": "2025-12-12 20:20:44 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-12-12 20:22:07 +0400"
     },
     "done": true
   },
@@ -7696,99 +7888,27 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_asurine_brick_slab_from_stone_types_asurine_stonecutting": {
+  "createdeco:recipes/decorations/green_copper_lamp": {
     "criteria": {
-      "has_stone_types_asurine": "2025-12-12 20:20:44 +0400"
+      "has_item": "2025-12-12 20:30:27 +0400"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
+  "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
-      "has_polished_deepslate": "2025-12-12 20:24:01 +0400"
+      "has_rail": "2025-12-12 20:33:15 +0400"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+  "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
-      "has_cobbled_deepslate": "2025-12-12 20:22:07 +0400"
+      "has_rail": "2025-12-12 20:33:15 +0400"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+  "techreborn:recipes/blast_furnace/iron_ingot_from_rail": {
     "criteria": {
-      "has_cobbled_deepslate": "2025-12-12 20:22:07 +0400"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-12-12 20:21:05 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
-    "criteria": {
-      "has_smooth_stone": "2025-12-12 20:13:53 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-12-12 20:22:07 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-12-12 20:22:07 +0400"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_asurine_wall_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-12-12 20:20:44 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
-    "criteria": {
-      "has_smooth_stone": "2025-12-12 20:13:53 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2025-12-12 20:24:01 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/lead": {
-    "criteria": {
-      "has_the_recipe": "2025-12-12 20:13:31 +0400"
-    },
-    "done": true
-  },
-  "vanillabackport:recipes/tools/lead": {
-    "criteria": {
-      "has_string": "2025-12-12 20:13:31 +0400"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_asurine_bricks_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-12-12 20:20:44 +0400"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-12-12 20:21:05 +0400"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_asurine_brick_slab_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-12-12 20:20:44 +0400"
+      "has_rail": "2025-12-12 20:33:15 +0400"
     },
     "done": true
   },
@@ -7798,57 +7918,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+  "techreborn:recipes/blast_furnace/arms_up_pottery_sherd": {
     "criteria": {
-      "has_polished_deepslate": "2025-12-12 20:24:01 +0400"
+      "has_totem_of_undying": "2025-12-12 20:35:54 +0400"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+  "techreborn:recipes/industrial_sawmill/spruce_pressure_plate_from_slab": {
     "criteria": {
-      "has_cobbled_deepslate": "2025-12-12 20:22:07 +0400"
+      "has_spruce_slab": "2025-12-12 21:05:01 +0400"
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_slabs": {
     "criteria": {
-      "has_stone_types_calcite": "2025-12-12 20:21:05 +0400"
+      "has_tag_minecraft_wooden_slabs": "2025-12-12 21:05:01 +0400"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+  "minecraft:recipes/decorations/composter": {
     "criteria": {
-      "has_polished_deepslate": "2025-12-12 20:24:01 +0400"
+      "has_wood_slab": "2025-12-12 21:05:01 +0400"
     },
     "done": true
   },
-  "techreborn:recipes/centrifuge/spider_eye": {
+  "techreborn:recipes/crafting_table/unit/storage/crude_storage_unit": {
     "criteria": {
-      "has_spider_eye": "2025-12-12 22:13:11 +0400"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/green_copper_lamp": {
-    "criteria": {
-      "has_item": "2025-12-12 20:30:27 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2025-12-12 22:13:11 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-12-12 20:22:07 +0400"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_calcite_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-12-12 20:21:05 +0400"
+      "has_barrel": "2025-12-12 21:05:07 +0400"
     },
     "done": true
   },
@@ -7858,117 +7954,21 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/calcite_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-12-12 20:21:05 +0400"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-12-12 20:21:05 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-12-12 20:18:39 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-12-12 20:22:07 +0400"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-12-12 20:21:05 +0400"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_calcite_bricks_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-12-12 20:21:05 +0400"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_asurine_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-12-12 20:20:44 +0400"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/string_from_bow": {
-    "criteria": {
-      "has_bow": "2025-12-12 20:13:39 +0400"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_asurine_slab_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-12-12 20:20:44 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2025-12-12 20:24:01 +0400"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-12-12 20:20:44 +0400"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-12-12 20:21:05 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-12-12 20:22:07 +0400"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/layered_asurine_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-12-12 20:20:44 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-12-12 20:22:07 +0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-12-12 20:18:39 +0400"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/item_vault": {
     "criteria": {
       "has_item": "2025-12-12 21:05:07 +0400"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+  "techreborn:recipes/centrifuge/spider_eye": {
     "criteria": {
-      "has_polished_deepslate": "2025-12-12 20:24:01 +0400"
+      "has_spider_eye": "2025-12-12 22:13:11 +0400"
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+  "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
-      "has_raw_copper": "2025-12-12 20:28:03 +0400"
+      "has_spider_eye": "2025-12-12 22:13:11 +0400"
     },
     "done": true
   },
