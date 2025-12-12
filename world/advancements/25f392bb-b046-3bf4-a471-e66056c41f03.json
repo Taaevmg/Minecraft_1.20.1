@@ -58,6 +58,7 @@
       "redwood_forest": "2025-12-08 17:19:11 +0400",
       "dune_beach": "2025-12-07 16:42:45 +0400",
       "seasonal_forest": "2025-12-07 16:41:25 +0400",
+      "pasture": "2025-12-12 22:18:48 +0400",
       "volcanic_plains": "2025-12-08 16:39:11 +0400",
       "lavender_field": "2025-12-07 16:42:21 +0400",
       "grassland": "2025-12-06 13:37:01 +0400",
@@ -151,6 +152,7 @@
     "criteria": {
       "minecraft:taiga": "2025-12-06 17:38:27 +0400",
       "minecraft:deep_ocean": "2025-12-08 16:25:20 +0400",
+      "minecraft:sunflower_plains": "2025-12-12 22:13:44 +0400",
       "minecraft:birch_forest": "2025-12-06 17:42:06 +0400",
       "minecraft:beach": "2025-12-06 17:38:33 +0400",
       "minecraft:dark_forest": "2025-12-06 17:20:28 +0400",
@@ -8643,6 +8645,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/nickel_storage_block": {
+    "criteria": {
+      "has_nickel_ingot": "2025-12-12 22:17:53 +0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-12-12 17:45:28 +0400"
@@ -8688,6 +8696,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-12-12 17:45:28 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/glass_bottle_from_experience_bottle": {
+    "criteria": {
+      "has_experience_bottle": "2025-12-12 22:18:10 +0400"
     },
     "done": true
   },
@@ -9252,6 +9266,12 @@
   "createdeco:recipes/building_blocks/tiled_red_brick_slab_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-12-12 18:06:18 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/nickel_nugget": {
+    "criteria": {
+      "has_nickel_ingot": "2025-12-12 22:17:53 +0400"
     },
     "done": true
   },

@@ -7822,9 +7822,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-12-12 22:13:11 +0400"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/green_copper_lamp": {
     "criteria": {
       "has_item": "2025-12-12 20:30:27 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-12-12 22:13:11 +0400"
     },
     "done": true
   },
