@@ -9395,6 +9395,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/blasting/copper_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2025-12-12 23:50:15 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-12-12 23:47:42 +0400"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
     "criteria": {
       "has_polished_rose_quartz": "2025-12-12 23:30:09 +0400"
@@ -9419,9 +9431,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/experience_nugget_from_block": {
+    "criteria": {
+      "has_item": "2025-12-12 23:51:45 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-12-12 23:47:42 +0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/bamboo_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-12-12 23:35:34 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/experience_block": {
+    "criteria": {
+      "has_item": "2025-12-12 23:51:45 +0400"
     },
     "done": true
   },
@@ -9434,6 +9464,12 @@
   "create:rose_quartz": {
     "criteria": {
       "0": "2025-12-12 23:30:09 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/copper_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2025-12-12 23:50:15 +0400"
     },
     "done": true
   },
@@ -9464,6 +9500,12 @@
   "create:recipes/misc/crafting/kinetics/adjustable_chain_gearshift": {
     "criteria": {
       "has_item": "2025-12-12 23:30:47 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2025-12-12 23:48:58 +0400"
     },
     "done": true
   },
