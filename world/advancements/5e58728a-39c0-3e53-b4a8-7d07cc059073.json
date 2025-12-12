@@ -7471,6 +7471,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_sawmill/spruce_pressure_plate_from_slab": {
+    "criteria": {
+      "has_spruce_slab": "2025-12-12 21:05:01 +0400"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_calcite_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-12-12 20:21:05 +0400"
@@ -7513,6 +7519,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/unit/storage/crude_storage_unit": {
+    "criteria": {
+      "has_barrel": "2025-12-12 21:05:07 +0400"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/copper_sheet_metal": {
     "criteria": {
       "has_item": "2025-12-12 20:30:27 +0400"
@@ -7552,6 +7564,12 @@
   "createdeco:recipes/decorations/copper_catwalk_railing_forge": {
     "criteria": {
       "has_item": "2025-12-12 20:30:27 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_slabs": {
+    "criteria": {
+      "has_tag_minecraft_wooden_slabs": "2025-12-12 21:05:01 +0400"
     },
     "done": true
   },
@@ -7636,6 +7654,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-12-12 20:24:01 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-12-12 21:05:01 +0400"
     },
     "done": true
   },
@@ -7813,6 +7837,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-12-12 21:05:07 +0400"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-12-12 20:21:05 +0400"
@@ -7906,6 +7936,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-12-12 20:18:39 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-12-12 21:05:07 +0400"
     },
     "done": true
   },
