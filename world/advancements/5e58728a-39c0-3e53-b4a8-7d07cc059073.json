@@ -62,6 +62,7 @@
       "redwood_forest": "2025-12-07 15:37:30 +0400",
       "dune_beach": "2025-12-12 23:03:14 +0400",
       "seasonal_forest": "2025-12-06 22:04:14 +0400",
+      "pasture": "2025-12-12 23:11:42 +0400",
       "lavender_field": "2025-12-07 15:38:12 +0400",
       "grassland": "2025-12-06 20:22:29 +0400",
       "prairie": "2025-12-12 23:03:04 +0400",
@@ -507,6 +508,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-12-07 21:37:34 +0400",
+      "minecraft:pillager": "2025-12-12 23:12:12 +0400",
       "minecraft:skeleton": "2025-12-06 20:36:38 +0400",
       "minecraft:ghast": "2025-12-07 21:04:51 +0400",
       "minecraft:hoglin": "2025-12-07 21:23:34 +0400",
@@ -7991,9 +7993,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-12-12 23:14:41 +0400"
+    },
+    "done": true
+  },
   "vanillabackport:recipes/transportation/purple_harness": {
     "criteria": {
       "has_dried_ghast": "2025-12-12 22:50:43 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-12-12 23:11:02 +0400"
     },
     "done": true
   },
@@ -8024,6 +8038,12 @@
   "vanillabackport:recipes/transportation/black_harness": {
     "criteria": {
       "has_dried_ghast": "2025-12-12 22:50:43 +0400"
+    },
+    "done": true
+  },
+  "create_ltab:cold": {
+    "criteria": {
+      "snowblock": "2025-12-12 23:06:43 +0400"
     },
     "done": true
   },
@@ -8060,6 +8080,18 @@
   "vanillabackport:recipes/transportation/brown_harness": {
     "criteria": {
       "has_dried_ghast": "2025-12-12 22:50:43 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-12-12 23:11:02 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/coal_plate_from_block": {
+    "criteria": {
+      "has_coal_block": "2025-12-12 23:14:41 +0400"
     },
     "done": true
   },
