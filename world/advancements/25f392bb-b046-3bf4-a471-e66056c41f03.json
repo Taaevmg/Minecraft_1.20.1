@@ -9389,6 +9389,18 @@
     },
     "done": true
   },
+  "railways:recipes/misc/crafting/semaphore": {
+    "criteria": {
+      "has_item": "2025-12-12 23:30:47 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_polished_rose_quartz": "2025-12-12 23:30:09 +0400"
+    },
+    "done": true
+  },
   "vanillabackport:recipes/combat/saddle": {
     "criteria": {
       "has_leather": "2025-12-12 22:48:57 +0400"
@@ -9401,15 +9413,57 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/deployer": {
+    "criteria": {
+      "has_item": "2025-12-12 23:30:47 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-12-12 23:35:34 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/electron_tube": {
+    "criteria": {
+      "has_item": "2025-12-12 23:25:56 +0400"
+    },
+    "done": true
+  },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2025-12-12 23:30:09 +0400"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/ingot/copper_ingot_from_nugget": {
     "criteria": {
       "has_copper_nugget": "2025-12-12 22:54:17 +0400"
     },
     "done": true
   },
+  "create:recipes/building_blocks/rose_quartz_block_from_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_rose_quartz": "2025-12-12 23:25:56 +0400"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/paper_from_book": {
     "criteria": {
       "has_book": "2025-12-12 22:50:02 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_polished_rose_quartz": "2025-12-12 23:30:09 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/adjustable_chain_gearshift": {
+    "criteria": {
+      "has_item": "2025-12-12 23:30:47 +0400"
     },
     "done": true
   },
