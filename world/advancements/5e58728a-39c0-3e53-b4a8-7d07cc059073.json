@@ -7972,5 +7972,107 @@
     },
     "done": true
   },
+  "vanillabackport:recipes/transportation/pink_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-12-12 22:50:43 +0400"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/transportation/magenta_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-12-12 22:50:43 +0400"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/transportation/purple_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-12-12 22:50:43 +0400"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/transportation/white_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-12-12 22:50:43 +0400"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/transportation/red_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-12-12 22:50:43 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/paper_from_manual": {
+    "criteria": {
+      "has_manual": "2025-12-12 22:50:50 +0400"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/transportation/orange_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-12-12 22:50:43 +0400"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/transportation/black_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-12-12 22:50:43 +0400"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/transportation/blue_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-12-12 22:50:43 +0400"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/transportation/lime_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-12-12 22:50:43 +0400"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/transportation/gray_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-12-12 22:50:43 +0400"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/transportation/cyan_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-12-12 22:50:43 +0400"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/transportation/yellow_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-12-12 22:50:43 +0400"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/transportation/brown_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-12-12 22:50:43 +0400"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/transportation/green_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-12-12 22:50:43 +0400"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/transportation/light_blue_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-12-12 22:50:43 +0400"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/transportation/light_gray_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-12-12 22:50:43 +0400"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
