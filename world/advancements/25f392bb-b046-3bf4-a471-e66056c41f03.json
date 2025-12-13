@@ -9413,6 +9413,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/steel_dust": {
+    "criteria": {
+      "has_tag_c_steel_ingots": "2025-12-13 11:41:36 +0400"
+    },
+    "done": true
+  },
   "techreborn:recipes/assembling_machine/rib_armor_trim_smithing_template": {
     "criteria": {
       "has_nether_bricks": "2025-12-13 00:04:18 +0400"
@@ -9482,6 +9488,12 @@
   "minecraft:recipes/decorations/bamboo_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-12-12 23:35:34 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/diamond_grinding_head": {
+    "criteria": {
+      "has_steel_ingot": "2025-12-13 11:41:36 +0400"
     },
     "done": true
   },
@@ -9605,6 +9617,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/steel_plate": {
+    "criteria": {
+      "has_tag_c_steel_ingots": "2025-12-13 11:41:36 +0400"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
     "criteria": {
       "has_polished_rose_quartz": "2025-12-12 23:30:09 +0400"
@@ -9626,6 +9644,12 @@
   "minecraft:recipes/misc/raw_copper": {
     "criteria": {
       "has_raw_copper_block": "2025-12-12 23:48:58 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/diamond_saw_blade": {
+    "criteria": {
+      "has_steel_ingot": "2025-12-13 11:41:36 +0400"
     },
     "done": true
   },
