@@ -9475,6 +9475,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/blasting/silver_ingot_from_c_silver_ores": {
+    "criteria": {
+      "has_tag_c_silver_ores": "2025-12-13 15:33:08 +0400"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/chemical_reactor": {
     "criteria": {
       "has_invar_plate": "2025-12-13 14:38:11 +0400"
@@ -9571,6 +9577,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-12-13 15:31:23 +0400"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/smelting/silver_ingot_from_c_raw_silver_ores": {
     "criteria": {
       "has_tag_c_raw_silver_ores": "2025-12-13 11:53:14 +0400"
@@ -9592,6 +9604,18 @@
   "create:recipes/misc/crafting/materials/experience_nugget_from_block": {
     "criteria": {
       "has_item": "2025-12-12 23:51:45 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/raw_iron_from_iron_ore_with_water": {
+    "criteria": {
+      "has_tag_c_iron_ores": "2025-12-13 15:31:23 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/smelting/tin_ingot_from_c_tin_ores": {
+    "criteria": {
+      "has_tag_c_tin_ores": "2025-12-13 15:31:49 +0400"
     },
     "done": true
   },
@@ -9673,9 +9697,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-12-13 15:31:23 +0400"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/compressed_air_cell": {
     "criteria": {
       "has_cell": "2025-12-13 14:29:38 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/blasting/tin_ingot_from_c_tin_ores": {
+    "criteria": {
+      "has_tag_c_tin_ores": "2025-12-13 15:31:49 +0400"
     },
     "done": true
   },
@@ -9721,6 +9757,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/refined_iron_ingot_from_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-12-13 15:31:23 +0400"
+    },
+    "done": true
+  },
   "create:recipes/misc/smelting/copper_ingot_from_crushed": {
     "criteria": {
       "has_item": "2025-12-12 23:50:15 +0400"
@@ -9745,9 +9787,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/tin_ore_with_water": {
+    "criteria": {
+      "has_tin_ore": "2025-12-13 15:31:49 +0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-12-13 09:38:30 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/smelting/silver_ingot_from_c_silver_ores": {
+    "criteria": {
+      "has_tag_c_silver_ores": "2025-12-13 15:33:08 +0400"
     },
     "done": true
   },
@@ -9772,6 +9826,12 @@
   "modern_industrialization:bronze_compressor": {
     "criteria": {
       "checkInv": "2025-12-13 09:50:48 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/raw_iron": {
+    "criteria": {
+      "has_tag_c_iron_ores": "2025-12-13 15:31:23 +0400"
     },
     "done": true
   },
@@ -9859,6 +9919,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/raw_silver": {
+    "criteria": {
+      "has_tag_c_silver_ores": "2025-12-13 15:33:08 +0400"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/adjustable_chain_gearshift": {
     "criteria": {
       "has_item": "2025-12-12 23:30:47 +0400"
@@ -9868,6 +9934,12 @@
   "techreborn:recipes/crafting_table/machine_block/advanced_machine_casing_alt": {
     "criteria": {
       "has_steel_plate": "2025-12-13 13:52:28 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/silver_ore_with_water": {
+    "criteria": {
+      "has_silver_ore": "2025-12-13 15:33:08 +0400"
     },
     "done": true
   },
@@ -9886,6 +9958,12 @@
   "techreborn:recipes/crafting_table/parts/diamond_saw_blade": {
     "criteria": {
       "has_steel_ingot": "2025-12-13 11:41:36 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/raw_tin": {
+    "criteria": {
+      "has_tag_c_tin_ores": "2025-12-13 15:31:49 +0400"
     },
     "done": true
   },
