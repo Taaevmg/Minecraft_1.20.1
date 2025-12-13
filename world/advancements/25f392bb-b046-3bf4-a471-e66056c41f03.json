@@ -9557,6 +9557,12 @@
     },
     "done": true
   },
+  "modern_industrialization:bronze_compressor": {
+    "criteria": {
+      "checkInv": "2025-12-13 09:50:48 +0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-12-13 00:04:18 +0400"
