@@ -9475,6 +9475,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/chemical_reactor": {
+    "criteria": {
+      "has_invar_plate": "2025-12-13 14:38:11 +0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
     "criteria": {
       "has_log": "2025-12-12 23:47:42 +0400"
@@ -9544,6 +9550,12 @@
   "minecraft:recipes/misc/coal_from_smelting_deepslate_coal_ore": {
     "criteria": {
       "has_deepslate_coal_ore": "2025-12-13 14:23:40 +0400"
+    },
+    "done": true
+  },
+  "modern_industrialization:steam_quarry": {
+    "criteria": {
+      "checkInv": "2025-12-13 14:42:48 +0400"
     },
     "done": true
   },
