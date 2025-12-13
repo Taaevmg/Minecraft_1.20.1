@@ -9397,6 +9397,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/blasting/invar_ingot_from_c_invar_dusts": {
+    "criteria": {
+      "has_tag_c_invar_dusts": "2025-12-13 14:32:42 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/cell": {
+    "criteria": {
+      "has_cell": "2025-12-13 14:29:38 +0400"
+    },
+    "done": true
+  },
   "railways:recipes/misc/crafting/semaphore": {
     "criteria": {
       "has_item": "2025-12-12 23:30:47 +0400"
@@ -9439,6 +9451,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/coal_plate": {
+    "criteria": {
+      "has_tag_c_coal_dusts": "2025-12-13 14:26:15 +0400"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/blasting/silver_ingot_from_c_raw_silver_ores": {
     "criteria": {
       "has_tag_c_raw_silver_ores": "2025-12-13 11:53:14 +0400"
@@ -9448,6 +9466,12 @@
   "techreborn:recipes/crafting_table/machine/vacuum_freezer": {
     "criteria": {
       "has_steel_plate": "2025-12-13 13:52:28 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/invar_dust": {
+    "criteria": {
+      "has_tag_c_invar_ingots": "2025-12-13 14:32:48 +0400"
     },
     "done": true
   },
@@ -9619,9 +9643,27 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/parts/carbon_fiber": {
+    "criteria": {
+      "has_coal_dust": "2025-12-13 14:26:15 +0400"
+    },
+    "done": true
+  },
   "modern_industrialization:bronze_mixer": {
     "criteria": {
       "checkInv": "2025-12-13 14:15:11 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/smelting/invar_ingot_from_c_invar_dusts": {
+    "criteria": {
+      "has_tag_c_invar_dusts": "2025-12-13 14:32:42 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/compressed_air_cell": {
+    "criteria": {
+      "has_cell": "2025-12-13 14:29:38 +0400"
     },
     "done": true
   },
@@ -9742,6 +9784,12 @@
   "modern_industrialization:steam_blast_furnace": {
     "criteria": {
       "checkInv": "2025-12-13 09:39:14 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/invar_plate": {
+    "criteria": {
+      "has_tag_c_invar_ingots": "2025-12-13 14:32:48 +0400"
     },
     "done": true
   },
