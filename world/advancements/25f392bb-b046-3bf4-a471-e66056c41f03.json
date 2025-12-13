@@ -9408,6 +9408,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/silver_plate": {
+    "criteria": {
+      "has_tag_c_silver_ingots": "2025-12-13 12:17:25 +0400"
+    },
+    "done": true
+  },
   "create:recipes/misc/blasting/copper_ingot_from_crushed": {
     "criteria": {
       "has_item": "2025-12-12 23:50:15 +0400"
@@ -9444,9 +9450,27 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/armor/silver_leggings": {
+    "criteria": {
+      "has_silver_ingot": "2025-12-13 12:17:25 +0400"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
     "criteria": {
       "has_polished_rose_quartz": "2025-12-12 23:30:09 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/silver_helmet": {
+    "criteria": {
+      "has_silver_ingot": "2025-12-13 12:17:25 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/silver_boots": {
+    "criteria": {
+      "has_silver_ingot": "2025-12-13 12:17:25 +0400"
     },
     "done": true
   },
@@ -9462,6 +9486,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/silver_storage_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-12-13 12:17:25 +0400"
+    },
+    "done": true
+  },
   "techreborn:recipes/assembling_machine/sentry_armor_trim_smithing_template": {
     "criteria": {
       "has_smooth_stone": "2025-12-13 09:38:30 +0400"
@@ -9471,6 +9501,12 @@
   "create:recipes/misc/crafting/kinetics/deployer": {
     "criteria": {
       "has_item": "2025-12-12 23:30:47 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/silver_chestplate": {
+    "criteria": {
+      "has_silver_ingot": "2025-12-13 12:17:25 +0400"
     },
     "done": true
   },
@@ -9567,6 +9603,12 @@
   "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_silver_storage_block": {
     "criteria": {
       "has_raw_silver": "2025-12-13 11:53:14 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-12-13 12:17:25 +0400"
     },
     "done": true
   },
