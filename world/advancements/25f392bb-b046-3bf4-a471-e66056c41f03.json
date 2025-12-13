@@ -9523,9 +9523,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/raw_copper_from_copper_ore_with_mercury": {
+    "criteria": {
+      "has_tag_c_copper_ores": "2025-12-13 18:47:39 +0400"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/silver_helmet": {
     "criteria": {
       "has_silver_ingot": "2025-12-13 12:17:25 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2025-12-13 18:48:28 +0400"
     },
     "done": true
   },
@@ -9547,6 +9559,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_from_blasting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2025-12-13 18:48:28 +0400"
+    },
+    "done": true
+  },
   "modern_industrialization:steel_machine_casing": {
     "criteria": {
       "checkInv": "2025-12-13 14:04:01 +0400"
@@ -9562,6 +9580,12 @@
   "techreborn:recipes/misc/crafting_table/storage_block/silver_storage_block": {
     "criteria": {
       "has_silver_ingot": "2025-12-13 12:17:25 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/raw_copper_from_copper_ore_with_sodium_persulfate": {
+    "criteria": {
+      "has_tag_c_copper_ores": "2025-12-13 18:47:39 +0400"
     },
     "done": true
   },
@@ -9715,6 +9739,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-12-13 18:47:39 +0400"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/experience_block": {
     "criteria": {
       "has_item": "2025-12-12 23:51:45 +0400"
@@ -9754,6 +9784,12 @@
   "techreborn:recipes/misc/smelting/invar_ingot_from_c_invar_dusts": {
     "criteria": {
       "has_tag_c_invar_dusts": "2025-12-13 14:32:42 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-12-13 18:47:39 +0400"
     },
     "done": true
   },
@@ -10015,9 +10051,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/redstone_from_redstone_ore_with_water": {
+    "criteria": {
+      "has_tag_c_redstone_ores": "2025-12-13 18:48:28 +0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2025-12-13 11:54:23 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/raw_copper": {
+    "criteria": {
+      "has_tag_c_copper_ores": "2025-12-13 18:47:39 +0400"
     },
     "done": true
   },
@@ -10102,6 +10150,12 @@
   "create:recipes/building_blocks/layered_deepslate_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-12-13 16:28:06 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/raw_copper_from_copper_ore_with_water": {
+    "criteria": {
+      "has_tag_c_copper_ores": "2025-12-13 18:47:39 +0400"
     },
     "done": true
   },
