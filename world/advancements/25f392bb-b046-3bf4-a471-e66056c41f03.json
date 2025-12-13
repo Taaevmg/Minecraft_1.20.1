@@ -2210,6 +2210,7 @@
       "minecraft:spider": "2025-12-06 20:29:37 +0400",
       "minecraft:creeper": "2025-12-07 10:02:25 +0400",
       "minecraft:phantom": "2025-12-07 22:23:19 +0400",
+      "minecraft:zombified_piglin": "2025-12-13 14:18:57 +0400",
       "minecraft:wither_skeleton": "2025-12-11 22:39:47 +0400",
       "minecraft:cave_spider": "2025-12-11 21:38:19 +0400",
       "minecraft:piglin": "2025-12-07 18:04:54 +0400",
@@ -9516,6 +9517,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_smelting_deepslate_coal_ore": {
+    "criteria": {
+      "has_deepslate_coal_ore": "2025-12-13 14:23:40 +0400"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/deployer": {
     "criteria": {
       "has_item": "2025-12-12 23:30:47 +0400"
@@ -9540,6 +9547,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_blasting_deepslate_coal_ore": {
+    "criteria": {
+      "has_deepslate_coal_ore": "2025-12-13 14:23:40 +0400"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/experience_nugget_from_block": {
     "criteria": {
       "has_item": "2025-12-12 23:51:45 +0400"
@@ -9549,6 +9562,12 @@
   "minecraft:recipes/decorations/dark_oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-12-12 23:47:42 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/glassfiber_cable_8": {
+    "criteria": {
+      "has_diamond_dust": "2025-12-13 14:20:41 +0400"
     },
     "done": true
   },
@@ -9567,6 +9586,12 @@
   "minecraft:recipes/decorations/bamboo_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-12-12 23:35:34 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/blasting/nickel_ingot_from_c_nickel_dusts": {
+    "criteria": {
+      "has_tag_c_nickel_dusts": "2025-12-13 14:21:26 +0400"
     },
     "done": true
   },
@@ -9627,6 +9652,12 @@
   "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_silver_storage_block": {
     "criteria": {
       "has_raw_silver": "2025-12-13 11:53:14 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/implosion_compressor/diamond": {
+    "criteria": {
+      "has_diamond_dust": "2025-12-13 14:20:41 +0400"
     },
     "done": true
   },
@@ -9714,6 +9745,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/smelting/nickel_ingot_from_c_nickel_dusts": {
+    "criteria": {
+      "has_tag_c_nickel_dusts": "2025-12-13 14:21:26 +0400"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/schedule": {
     "criteria": {
       "has_item": "2025-12-13 00:04:18 +0400"
@@ -9747,6 +9784,12 @@
   "create:recipes/building_blocks/rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
     "criteria": {
       "has_polished_rose_quartz": "2025-12-12 23:30:09 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/diamond_plate": {
+    "criteria": {
+      "has_tag_c_diamond_dusts": "2025-12-13 14:20:41 +0400"
     },
     "done": true
   },
