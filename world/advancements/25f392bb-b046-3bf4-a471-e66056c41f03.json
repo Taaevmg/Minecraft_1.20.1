@@ -9583,6 +9583,12 @@
     },
     "done": true
   },
+  "modern_industrialization:analog_circuit": {
+    "criteria": {
+      "checkInv": "2025-12-14 01:34:22 +0400"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/raw_copper_from_copper_ore_with_sodium_persulfate": {
     "criteria": {
       "has_tag_c_copper_ores": "2025-12-13 18:47:39 +0400"
@@ -9643,6 +9649,12 @@
     },
     "done": true
   },
+  "modern_industrialization:capacitor": {
+    "criteria": {
+      "checkInv": "2025-12-14 01:33:59 +0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
     "criteria": {
       "has_iron_ore": "2025-12-13 15:31:23 +0400"
@@ -9682,6 +9694,18 @@
   "techreborn:recipes/industrial_grinder/raw_iron_from_iron_ore_with_water": {
     "criteria": {
       "has_tag_c_iron_ores": "2025-12-13 15:31:23 +0400"
+    },
+    "done": true
+  },
+  "modern_industrialization:resistor": {
+    "criteria": {
+      "checkInv": "2025-12-14 01:33:06 +0400"
+    },
+    "done": true
+  },
+  "modern_industrialization:inductor": {
+    "criteria": {
+      "checkInv": "2025-12-14 01:31:17 +0400"
     },
     "done": true
   },
