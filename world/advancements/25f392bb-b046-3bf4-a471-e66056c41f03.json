@@ -9594,6 +9594,12 @@
     },
     "done": true
   },
+  "modern_industrialization:bronze_mixer": {
+    "criteria": {
+      "checkInv": "2025-12-13 14:15:11 +0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2025-12-13 00:04:18 +0400"
