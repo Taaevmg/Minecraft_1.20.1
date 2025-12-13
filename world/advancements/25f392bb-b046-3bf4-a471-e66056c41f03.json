@@ -9685,6 +9685,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-12-13 23:45:02 +0400"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/smelting/tin_ingot_from_c_tin_ores": {
     "criteria": {
       "has_tag_c_tin_ores": "2025-12-13 15:31:49 +0400"
@@ -9886,6 +9892,12 @@
   "create:recipes/misc/smelting/copper_ingot_from_crushed": {
     "criteria": {
       "has_item": "2025-12-12 23:50:15 +0400"
+    },
+    "done": true
+  },
+  "modern_industrialization:steel_wiremill": {
+    "criteria": {
+      "checkInv": "2025-12-13 23:36:27 +0400"
     },
     "done": true
   },
