@@ -9389,6 +9389,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-12-13 09:38:30 +0400"
+    },
+    "done": true
+  },
   "railways:recipes/misc/crafting/semaphore": {
     "criteria": {
       "has_item": "2025-12-12 23:30:47 +0400"
@@ -9434,6 +9440,12 @@
   "techreborn:recipes/extractor/paper_from_manual": {
     "criteria": {
       "has_manual": "2025-12-12 22:50:19 +0400"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_smooth_stone": "2025-12-13 09:38:30 +0400"
     },
     "done": true
   },
@@ -9527,6 +9539,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-12-13 09:38:30 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-12-13 09:38:30 +0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2025-12-13 00:04:18 +0400"
@@ -9545,6 +9569,12 @@
     },
     "done": true
   },
+  "modern_industrialization:steam_blast_furnace": {
+    "criteria": {
+      "checkInv": "2025-12-13 09:39:14 +0400"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/schedule": {
     "criteria": {
       "has_item": "2025-12-13 00:04:18 +0400"
@@ -9554,6 +9584,12 @@
   "techreborn:recipes/extractor/paper_from_book": {
     "criteria": {
       "has_book": "2025-12-12 22:50:02 +0400"
+    },
+    "done": true
+  },
+  "modern_industrialization:fire_clay_bricks": {
+    "criteria": {
+      "checkInv": "2025-12-13 09:36:59 +0400"
     },
     "done": true
   },
